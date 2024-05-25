@@ -1,0 +1,1001 @@
+series id,id,title,frequency
+FPCPITOTLZGUSA,FPCPITOTLZGUSA,"Inflation, consumer prices for the United States",Annual
+SIPOVGINIUSA,SIPOVGINIUSA,GINI Index for the United States,Annual
+MKTGDPCNA646NWDB,MKTGDPCNA646NWDB,Gross Domestic Product for China,Annual
+MKTGDPJPA646NWDB,MKTGDPJPA646NWDB,Gross Domestic Product for Japan,Annual
+MKTGDPGBA646NWDB,MKTGDPGBA646NWDB,Gross Domestic Product for United Kingdom,Annual
+SPDYNCBRTINUSA,SPDYNCBRTINUSA,Crude Birth Rate for the United States,Annual
+MKTGNIUSA646NWDB,MKTGNIUSA646NWDB,Gross National Income for United States,Annual
+SPDYNTFRTINUSA,SPDYNTFRTINUSA,"Fertility Rate, Total for the United States",Annual
+POPTOTUSA647NWDB,POPTOTUSA647NWDB,"Population, Total for United States",Annual
+POPTOTUS52647NWDB,POPTOTUS52647NWDB,"Population, Total for United States",5 Year
+NYGDPPCAPKDUSA,NYGDPPCAPKDUSA,Constant GDP per capita for the United States,Annual
+FPCPITOTLZGJPN,FPCPITOTLZGJPN,"Inflation, consumer prices for Japan",Annual
+NYGDPPCAPKDCHN,NYGDPPCAPKDCHN,Constant GDP per capita for China,Annual
+ECBASSETSW,ECBASSETSW,Central Bank Assets for Euro Area (11-19 Countries),Weekly
+NYGDPPCAPKDJPN,NYGDPPCAPKDJPN,Constant GDP per capita for Japan,Annual
+DEBTTLJPA188A,DEBTTLJPA188A,"Central government debt, total (% of GDP) for Japan",Annual
+FPCPITOTLZGGBR,FPCPITOTLZGGBR,"Inflation, consumer prices for the United Kingdom",Annual
+SPPOPGROWUSA,SPPOPGROWUSA,Population Growth for the United States,Annual
+DDOI131WA156NWDB,DDOI131WA156NWDB,Percentage of Foreign Banks Among Total Banks for World (DISCONTINUED),Annual
+MKTGDPDEA646NWDB,MKTGDPDEA646NWDB,Gross Domestic Product for Germany,Annual
+ECBDFR,ECBDFR,ECB Deposit Facility Rate for Euro Area,"Daily, 7-Day"
+BOGZ1FA284116005Q,BOGZ1FA284116005Q,"International Banking Facilities of Foreign Banking Offices in U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Quarterly
+BOGZ1FU264016005A,BOGZ1FU264016005A,"Rest of the World; Net Interbank Transactions with Banks in Foreign Countries; Asset, Transactions",Annual
+BOGZ1FU264016005Q,BOGZ1FU264016005Q,"Rest of the World; Net Interbank Transactions with Banks in Foreign Countries; Asset, Transactions",Quarterly
+BOGZ1FA284116005A,BOGZ1FA284116005A,"International Banking Facilities of Foreign Banking Offices in U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Annual
+BOGZ1FU284116005A,BOGZ1FU284116005A,"International Banking Facilities of Foreign Banking Offices in U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Annual
+BOGZ1FU284116005Q,BOGZ1FU284116005Q,"International Banking Facilities of Foreign Banking Offices in U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Quarterly
+NYGDPMKTPCDWLD,NYGDPMKTPCDWLD,Gross Domestic Product for World,Annual
+DDSI041WA156NWDB,DDSI041WA156NWDB,Bank Credit to Bank Deposits for World (DISCONTINUED),Annual
+BOGZ1FL764116005Q,BOGZ1FL764116005Q,"U.S.-Chartered Depository Institutions, Including IBFs; Net Interbank Transactions with Banks in Foreign Countries; Liability, Level",Quarterly
+BOGZ1FA764116005A,BOGZ1FA764116005A,"U.S.-Chartered Depository Institutions, Including IBFs; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Annual
+BOGZ1FU764116005A,BOGZ1FU764116005A,"U.S.-Chartered Depository Institutions, Including IBFs; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Annual
+BOGZ1FR764116005Q,BOGZ1FR764116005Q,"U.S.-Chartered Depository Institutions, Including IBFs; Net Interbank Transactions with Banks in Foreign Countries; Liability, Revaluation",Quarterly
+DDDI041WA156NWDB,DDDI041WA156NWDB,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for World (DISCONTINUED),Annual
+BOGZ1FL754116005Q,BOGZ1FL754116005Q,"Foreign Banking Offices in the U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Level",Quarterly
+BOGZ1FR754116005A,BOGZ1FR754116005A,"Foreign Banking Offices in the U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Revaluation",Annual
+BOGZ1FR274116005Q,BOGZ1FR274116005Q,"International Banking Facilities of U.S.-Chartered Depository Institutions; Net Interbank Transactions with Banks in Foreign Countries; Liability, Revaluation",Quarterly
+BOGZ1FU274116005Q,BOGZ1FU274116005Q,"International Banking Facilities of U.S.-Chartered Depository Institutions; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Quarterly
+BOGZ1FL284116005Q,BOGZ1FL284116005Q,"International Banking Facilities of Foreign Banking Offices in U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Level",Quarterly
+DDOI141WA156NWDB,DDOI141WA156NWDB,Percentage of Foreign Bank Assets Among Total Bank Assets for World (DISCONTINUED),Annual
+DDOI101WA156NWDB,DDOI101WA156NWDB,External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for World (DISCONTINUED),Annual
+DDOI011WA156NWDB,DDOI011WA156NWDB,Bank Concentration for World (DISCONTINUED),Annual
+DDOI031WA066NWDB,DDOI031WA066NWDB,H-Statistic in Banking Market for World (DISCONTINUED),Annual
+DDOI051WA156NWDB,DDOI051WA156NWDB,Boone Indicator in Banking Market for World (DISCONTINUED),Annual
+BOGZ1FL764116005A,BOGZ1FL764116005A,"U.S.-Chartered Depository Institutions, Including IBFs; Net Interbank Transactions with Banks in Foreign Countries; Liability, Level",Annual
+BOGZ1FA764116005Q,BOGZ1FA764116005Q,"U.S.-Chartered Depository Institutions, Including IBFs; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Quarterly
+BOGZ1FU764116005Q,BOGZ1FU764116005Q,"U.S.-Chartered Depository Institutions, Including IBFs; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Quarterly
+BOGZ1FR764116005A,BOGZ1FR764116005A,"U.S.-Chartered Depository Institutions, Including IBFs; Net Interbank Transactions with Banks in Foreign Countries; Liability, Revaluation",Annual
+BOGZ1FL754116005A,BOGZ1FL754116005A,"Foreign Banking Offices in the U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Level",Annual
+BOGZ1FR754116005Q,BOGZ1FR754116005Q,"Foreign Banking Offices in the U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Revaluation",Quarterly
+BOGZ1FR274116005A,BOGZ1FR274116005A,"International Banking Facilities of U.S.-Chartered Depository Institutions; Net Interbank Transactions with Banks in Foreign Countries; Liability, Revaluation",Annual
+BOGZ1FA274116005A,BOGZ1FA274116005A,"International Banking Facilities of U.S.-Chartered Depository Institutions; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Annual
+BOGZ1FA274116005Q,BOGZ1FA274116005Q,"International Banking Facilities of U.S.-Chartered Depository Institutions; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Quarterly
+BOGZ1FU274116005A,BOGZ1FU274116005A,"International Banking Facilities of U.S.-Chartered Depository Institutions; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Annual
+BOGZ1FL284116005A,BOGZ1FL284116005A,"International Banking Facilities of Foreign Banking Offices in U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Level",Annual
+DDOI041WA066NWDB,DDOI041WA066NWDB,Lerner Index in Banking Market for World (DISCONTINUED),Annual
+DDEI061WA156NWDB,DDEI061WA156NWDB,Bank's Return on Equity for World (DISCONTINUED),Annual
+DDEI051WA156NWDB,DDEI051WA156NWDB,Bank's Return on Assets for World (DISCONTINUED),Annual
+DDEI071WA156NWDB,DDEI071WA156NWDB,Bank's Cost to Income Ratio for World (DISCONTINUED),Annual
+FPCPITOTLZGDEU,FPCPITOTLZGDEU,"Inflation, consumer prices for Germany",Annual
+FPCPITOTLZGCHN,FPCPITOTLZGCHN,"Inflation, consumer prices for China",Annual
+DDAI021WA643NWDB,DDAI021WA643NWDB,Number of Bank Branches for World (DISCONTINUED),Annual
+DDAI011WA642NWDB,DDAI011WA642NWDB,Number of Bank Accounts for World (DISCONTINUED),Annual
+DDEI011WA156NWDB,DDEI011WA156NWDB,Bank's Net Interest Margin for World (DISCONTINUED),Annual
+DDSI011WA645NWDB,DDSI011WA645NWDB,Bank Z-Score for World (DISCONTINUED),Annual
+SPPOP65UPTOZSUSA,SPPOP65UPTOZSUSA,Population ages 65 and above for the United States,Annual
+DDSI021WA156NWDB,DDSI021WA156NWDB,Bank Non-Performing Loans to Gross Loans for World (DISCONTINUED),Annual
+SIPOVGINICHN,SIPOVGINICHN,GINI Index for China,Annual
+BOGZ1FR264016005A,BOGZ1FR264016005A,"Rest of the World; Net Interbank Transactions with Banks in Foreign Countries; Asset, Revaluation",Annual
+BOGZ1FR264016005Q,BOGZ1FR264016005Q,"Rest of the World; Net Interbank Transactions with Banks in Foreign Countries; Asset, Revaluation",Quarterly
+BOGZ1FA754116005A,BOGZ1FA754116005A,"Foreign Banking Offices in the U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Annual
+BOGZ1FA754116005Q,BOGZ1FA754116005Q,"Foreign Banking Offices in the U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Quarterly
+BOGZ1FU754116005A,BOGZ1FU754116005A,"Foreign Banking Offices in the U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Annual
+BOGZ1FU754116005Q,BOGZ1FU754116005Q,"Foreign Banking Offices in the U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Transactions",Quarterly
+BOGZ1FR284116005A,BOGZ1FR284116005A,"International Banking Facilities of Foreign Banking Offices in U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Revaluation",Annual
+BOGZ1FR284116005Q,BOGZ1FR284116005Q,"International Banking Facilities of Foreign Banking Offices in U.S.; Net Interbank Transactions with Banks in Foreign Countries; Liability, Revaluation",Quarterly
+BOGZ1FL274116005A,BOGZ1FL274116005A,"International Banking Facilities of U.S.-Chartered Depository Institutions; Net Interbank Transactions with Banks in Foreign Countries; Liability, Level",Annual
+BOGZ1FL274116005Q,BOGZ1FL274116005Q,"International Banking Facilities of U.S.-Chartered Depository Institutions; Net Interbank Transactions with Banks in Foreign Countries; Liability, Level",Quarterly
+DDEI031WA156NWDB,DDEI031WA156NWDB,Bank's Non-Interest Income to Total Income for World (DISCONTINUED),Annual
+DDOI061WA156NWDB,DDOI061WA156NWDB,5-Bank Asset Concentration for World (DISCONTINUED),Annual
+BOGZ1FA263194763Q,BOGZ1FA263194763Q,"Rest of the World; Foreign Bank Subsidiaries Transactions Due to Holding Companies; Liabilities, Transactions",Quarterly
+BOGZ1FL263194763Q,BOGZ1FL263194763Q,"Rest of the World; Foreign Bank Subsidiaries Transactions Due to Holding Companies; Liabilities, Level",Quarterly
+BOGZ1FR263194763Q,BOGZ1FR263194763Q,"Rest of the World; Foreign Bank Subsidiaries Transactions Due to Holding Companies; Liabilities, Revaluation",Quarterly
+BOGZ1FA263194765A,BOGZ1FA263194765A,"Rest of the World; Foreign Bank Subsidiaries Net Transactions Due to Holding Companies; Liabilities, Transactions (DISCONTINUED)",Annual
+BOGZ1FL263194765Q,BOGZ1FL263194765Q,"Rest of the World; Foreign Bank Subsidiaries Net Transactions Due to Holding Companies; Liabilities, Level (DISCONTINUED)",Quarterly
+BOGZ1FR263194765A,BOGZ1FR263194765A,"Rest of the World; Foreign Bank Subsidiaries Net Transactions Due to Holding Companies; Liabilities, Revaluation (DISCONTINUED)",Annual
+BOGZ1FA263194763A,BOGZ1FA263194763A,"Rest of the World; Foreign Bank Subsidiaries Transactions Due to Holding Companies; Liabilities, Transactions",Annual
+BOGZ1FU263194763A,BOGZ1FU263194763A,"Rest of the World; Foreign Bank Subsidiaries Transactions Due to Holding Companies; Liabilities, Transactions",Annual
+BOGZ1FU263194763Q,BOGZ1FU263194763Q,"Rest of the World; Foreign Bank Subsidiaries Transactions Due to Holding Companies; Liabilities, Transactions",Quarterly
+BOGZ1FL263194763A,BOGZ1FL263194763A,"Rest of the World; Foreign Bank Subsidiaries Transactions Due to Holding Companies; Liabilities, Level",Annual
+BOGZ1FR263194763A,BOGZ1FR263194763A,"Rest of the World; Foreign Bank Subsidiaries Transactions Due to Holding Companies; Liabilities, Revaluation",Annual
+DDSI031WA156NWDB,DDSI031WA156NWDB,Bank Capital to Total Assets for World (DISCONTINUED),Annual
+BOGZ1FA263194765Q,BOGZ1FA263194765Q,"Rest of the World; Foreign Bank Subsidiaries Net Transactions Due to Holding Companies; Liabilities, Transactions (DISCONTINUED)",Quarterly
+BOGZ1FU263194765A,BOGZ1FU263194765A,"Rest of the World; Foreign Bank Subsidiaries Net Transactions Due to Holding Companies; Liabilities, Transactions (DISCONTINUED)",Annual
+BOGZ1FU263194765Q,BOGZ1FU263194765Q,"Rest of the World; Foreign Bank Subsidiaries Net Transactions Due to Holding Companies; Liabilities, Transactions (DISCONTINUED)",Quarterly
+BOGZ1FL263194765A,BOGZ1FL263194765A,"Rest of the World; Foreign Bank Subsidiaries Net Transactions Due to Holding Companies; Liabilities, Level (DISCONTINUED)",Annual
+BOGZ1FR263194765Q,BOGZ1FR263194765Q,"Rest of the World; Foreign Bank Subsidiaries Net Transactions Due to Holding Companies; Liabilities, Revaluation (DISCONTINUED)",Quarterly
+SMPOPNETMUSA,SMPOPNETMUSA,Net migration for the United States,5 Year
+DDOI021WA156NWDB,DDOI021WA156NWDB,Bank Deposits to GDP for World (DISCONTINUED),Annual
+DDEI041WA156NWDB,DDEI041WA156NWDB,Bank's Overhead Costs to Total Assets for World (DISCONTINUED),Annual
+DDOI121WA156NWDB,DDOI121WA156NWDB,Consolidated Foreign Claims of BIS-Reporting Banks to GDP for World (DISCONTINUED),Annual
+DDDI011WA156NWDB,DDDI011WA156NWDB,Private Credit by Deposit Money Banks to GDP for World (DISCONTINUED),Annual
+NYGDPPCAPKDCAN,NYGDPPCAPKDCAN,Constant GDP per capita for Canada,Annual
+BOGZ1FR264116205Q,BOGZ1FR264116205Q,"Rest of the World; U.S. Deposits at Foreign Banks; Liability, Revaluation",Quarterly
+RWUSDFBL,RWUSDFBL,"Rest of the World; U.S. Deposits at Foreign Banks; Liability, Level",Quarterly
+BOGZ1FR264116205A,BOGZ1FR264116205A,"Rest of the World; U.S. Deposits at Foreign Banks; Liability, Revaluation",Annual
+BOGZ1FL264116205A,BOGZ1FL264116205A,"Rest of the World; U.S. Deposits at Foreign Banks; Liability, Level",Annual
+DDDI061WA156NWDB,DDDI061WA156NWDB,Central Bank Assets to GDP for World (DISCONTINUED),Annual
+DDDI021WA156NWDB,DDDI021WA156NWDB,Deposit Money Bank Assets to GDP for World (DISCONTINUED),Annual
+MKTGDPINA646NWDB,MKTGDPINA646NWDB,Gross Domestic Product for India,Annual
+FPCPITOTLZGCAN,FPCPITOTLZGCAN,"Inflation, consumer prices for Canada",Annual
+DDOI081WA156NWDB,DDOI081WA156NWDB,"Loans from Non-Resident Banks, Net, to GDP for World (DISCONTINUED)",Annual
+ITNETUSERP2USA,ITNETUSERP2USA,Internet users for the United States,Annual
+BOGZ1FA264116205Q,BOGZ1FA264116205Q,"Rest of the World; U.S. Deposits at Foreign Banks; Liability, Transactions",Quarterly
+BOGZ1FA264116205A,BOGZ1FA264116205A,"Rest of the World; U.S. Deposits at Foreign Banks; Liability, Transactions",Annual
+BOGZ1FU264116205A,BOGZ1FU264116205A,"Rest of the World; U.S. Deposits at Foreign Banks; Liability, Transactions",Annual
+BOGZ1FU264116205Q,BOGZ1FU264116205Q,"Rest of the World; U.S. Deposits at Foreign Banks; Liability, Transactions",Quarterly
+NYGDPPCAPKDWLD,NYGDPPCAPKDWLD,Constant GDP per capita for the World,Annual
+DDEI021WA156NWDB,DDEI021WA156NWDB,Bank Lending Deposit Spread for World (DISCONTINUED),Annual
+FPCPITOTLZGIND,FPCPITOTLZGIND,"Inflation, consumer prices for India",Annual
+ROWNITQ027S,ROWNITQ027S,"Rest of the World; Net Interbank Transactions with Banks in Foreign Countries; Asset, Transactions",Quarterly
+ROWNITA027N,ROWNITA027N,"Rest of the World; Net Interbank Transactions with Banks in Foreign Countries; Asset, Transactions",Annual
+NYGDPPCAPKDGBR,NYGDPPCAPKDGBR,Constant GDP per capita for the United Kingdom,Annual
+DDOI091WA156NWDB,DDOI091WA156NWDB,"Loans from Non-Resident Banks, Amounts Outstanding, to GDP for World (DISCONTINUED)",Annual
+MKTGNIPHA646NWDB,MKTGNIPHA646NWDB,Gross National Income for Philippines,Annual
+SPDYNLE00INUSA,SPDYNLE00INUSA,"Life Expectancy at Birth, Total for the United States",Annual
+MKTGDPCAA646NWDB,MKTGDPCAA646NWDB,Gross Domestic Product for Canada,Annual
+ROWNIBQ027S,ROWNIBQ027S,"Rest of the World; Net Interbank Transactions with Banks in Foreign Countries; Asset, Level",Quarterly
+ROWNIBA027N,ROWNIBA027N,"Rest of the World; Net Interbank Transactions with Banks in Foreign Countries; Asset, Level",Annual
+SIPOVGINIIND,SIPOVGINIIND,GINI Index for India,Annual
+DDDM01USA156NWDB,DDDM01USA156NWDB,Stock Market Capitalization to GDP for United States,Annual
+FPCPITOTLZGWLD,FPCPITOTLZGWLD,"Inflation, consumer prices for the World",Annual
+RWNITBFCA,RWNITBFCA,Rest of the World; Net Interbank Transactions with Banks in Foreign Countries; Asset (DISCONTINUED),Quarterly
+NYGDPPCAPKDIND,NYGDPPCAPKDIND,Constant GDP per capita for India,Annual
+MKTGDPFRA646NWDB,MKTGDPFRA646NWDB,Gross Domestic Product for France,Annual
+SIPOVGINIPHL,SIPOVGINIPHL,GINI Index for the Philippines,Annual
+SIPOVGINIBRA,SIPOVGINIBRA,GINI Index for Brazil,Annual
+NYGDPPCAPKDDEU,NYGDPPCAPKDDEU,Constant GDP per capita for Germany,Annual
+ECBESTRVOLWGTTRMDMNRT,ECBESTRVOLWGTTRMDMNRT,Euro Short-Term Rate: Volume-Weighted Trimmed Mean Rate,Daily
+SLUEM1524ZSCHN,SLUEM1524ZSCHN,Youth Unemployment Rate for China,Annual
+NYGDPPCAPKDITA,NYGDPPCAPKDITA,Constant GDP per capita for Italy,Annual
+IDSGBAMNIAOW1,IDSGBAMNIAOW1,"Amount Outstanding of International Debt Securities for Issuers in Financial Institutions Sector (Banks), All Maturities, Nationality of Issuer in All countries (DISCONTINUED)",Quarterly
+SIPOVGINIRUS,SIPOVGINIRUS,GINI Index for the Russian Federation,Annual
+NYGDPPCAPKDARG,NYGDPPCAPKDARG,Constant GDP per capita for Argentina,Annual
+NYGDPPCAPKDKOR,NYGDPPCAPKDKOR,Constant GDP per capita for the Republic of Korea,Annual
+SLUEM1524ZSIND,SLUEM1524ZSIND,Youth Unemployment Rate for India,Annual
+BOGZ1FL264135125Q,BOGZ1FL264135125Q,"Rest of the World; Depository Institution Loans to Foreign Banks; Liability, Level",Quarterly
+BOGZ1FL264135125A,BOGZ1FL264135125A,"Rest of the World; Depository Institution Loans to Foreign Banks; Liability, Level",Annual
+DDOM01USA644NWDB,DDOM01USA644NWDB,Number of Listed Companies for United States,Annual
+ECBMRRFR,ECBMRRFR,ECB Main Refinancing Operations Rate: Fixed Rate Tenders for Euro Area,"Daily, 7-Day"
+DDDI031WA156NWDB,DDDI031WA156NWDB,Non-Bank Financial Institutions' Assets to GDP for World (DISCONTINUED),Annual
+BOGZ1FR264135125A,BOGZ1FR264135125A,"Rest of the World; Depository Institution Loans to Foreign Banks; Liability, Revaluation",Annual
+BOGZ1FR264135125Q,BOGZ1FR264135125Q,"Rest of the World; Depository Institution Loans to Foreign Banks; Liability, Revaluation",Quarterly
+BOGZ1FA264135125A,BOGZ1FA264135125A,"Rest of the World; Depository Institution Loans to Foreign Banks; Liability, Transactions",Annual
+BOGZ1FA264135125Q,BOGZ1FA264135125Q,"Rest of the World; Depository Institution Loans to Foreign Banks; Liability, Transactions",Quarterly
+BOGZ1FU264135125A,BOGZ1FU264135125A,"Rest of the World; Depository Institution Loans to Foreign Banks; Liability, Transactions",Annual
+BOGZ1FU264135125Q,BOGZ1FU264135125Q,"Rest of the World; Depository Institution Loans to Foreign Banks; Liability, Transactions",Quarterly
+MKTGDPITA646NWDB,MKTGDPITA646NWDB,Gross Domestic Product for Italy,Annual
+FPCPITOTLZGBRA,FPCPITOTLZGBRA,"Inflation, consumer prices for Brazil",Annual
+FPCPITOTLZGITA,FPCPITOTLZGITA,"Inflation, consumer prices for Italy",Annual
+FPCPITOTLZGTUR,FPCPITOTLZGTUR,"Inflation, consumer prices for Turkey",Annual
+SIPOVGINIDEU,SIPOVGINIDEU,GINI Index for Germany,Annual
+SPPOPDPNDOLUSA,SPPOPDPNDOLUSA,Age Dependency Ratio: Older Dependents to Working-Age Population for the United States,Annual
+SLEMPTOTLSPZSIND,SLEMPTOTLSPZSIND,Employment to Population Ratio for India,Annual
+MKTGDPKRA646NWDB,MKTGDPKRA646NWDB,Gross Domestic Product for Republic of Korea,Annual
+FPCPITOTLZGFRA,FPCPITOTLZGFRA,"Inflation, consumer prices for France",Annual
+FPCPITOTLZGEMU,FPCPITOTLZGEMU,"Inflation, consumer prices for the Euro Area",Annual
+SIPOVGINIGBR,SIPOVGINIGBR,GINI Index for the United Kingdom,Annual
+SIPOVGINICAN,SIPOVGINICAN,GINI Index for Canada,Annual
+NYGDPPCAPKDFRA,NYGDPPCAPKDFRA,Constant GDP per capita for France,Annual
+PCAGDPCNA646NWDB,PCAGDPCNA646NWDB,Gross Domestic Product Per Capita for China,Annual
+SLUEM1524ZSUSA,SLUEM1524ZSUSA,Youth Unemployment Rate for the United States,Annual
+FPCPITOTLZGARG,FPCPITOTLZGARG,"Inflation, consumer prices for Argentina",Annual
+SPDYNTFRTINJPN,SPDYNTFRTINJPN,"Fertility Rate, Total for Japan",Annual
+DDDI121WA156NWDB,DDDI121WA156NWDB,Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for World (DISCONTINUED),Annual
+FPCPITOTLZGMEX,FPCPITOTLZGMEX,"Inflation, consumer prices for Mexico",Annual
+IDSGBAMNINIW1,IDSGBAMNINIW1,"Net Issues of International Debt Securities for Issuers in Financial Institutions Sector (Banks), All Maturities, Nationality of Issuer in All countries (DISCONTINUED)",Quarterly
+DEBTTLCAA188A,DEBTTLCAA188A,"Central government debt, total (% of GDP) for Canada",Annual
+SIPOVGINIIDN,SIPOVGINIIDN,GINI Index for Indonesia,Annual
+SIPOVGINIMEX,SIPOVGINIMEX,GINI Index for Mexico,Annual
+BAMLHE00EHYIEY,BAMLHE00EHYIEY,ICE BofA Euro High Yield Index Effective Yield,"Daily, Close"
+MKTGDPSGA646NWDB,MKTGDPSGA646NWDB,Gross Domestic Product for Singapore,Annual
+FPCPITOTLZGAUS,FPCPITOTLZGAUS,"Inflation, consumer prices for Australia",Annual
+DEBTTLCNA188A,DEBTTLCNA188A,"Central government debt, total (% of GDP) for China",Annual
+FPCPITOTLZGEUU,FPCPITOTLZGEUU,"Inflation, consumer prices for the European Union",Annual
+SIPOVGINIJPN,SIPOVGINIJPN,GINI Index for Japan,Annual
+SIPOVGINITHA,SIPOVGINITHA,GINI Index for Thailand,Annual
+NYGDPPCAPKDRUS,NYGDPPCAPKDRUS,Constant GDP per capita for the Russian Federation,Annual
+NYGDPPCAPKDAUS,NYGDPPCAPKDAUS,Constant GDP per capita for Australia,Annual
+MKTGDPMXA646NWDB,MKTGDPMXA646NWDB,Gross Domestic Product for Mexico,Annual
+FPCPITOTLZGKOR,FPCPITOTLZGKOR,"Inflation, consumer prices for the Republic of Korea",Annual
+POPTOTJP52647NWDB,POPTOTJP52647NWDB,"Population, Total for Japan",5 Year
+SMPOPREFGPSE,SMPOPREFGPSE,Refugee Population by Country or Territory of Asylum for the Occupied Palestinian Territory,Annual
+BAMLHE00EHYIOAS,BAMLHE00EHYIOAS,ICE BofA Euro High Yield Index Option-Adjusted Spread,"Daily, Close"
+FPCPITOTLZGRUS,FPCPITOTLZGRUS,"Inflation, consumer prices for the Russian Federation",Annual
+POPTOTJPA647NWDB,POPTOTJPA647NWDB,"Population, Total for Japan",Annual
+MKTGDPMYA646NWDB,MKTGDPMYA646NWDB,Gross Domestic Product for Malaysia,Annual
+FPCPITOTLZGESP,FPCPITOTLZGESP,"Inflation, consumer prices for Spain",Annual
+MKTGDPVNA646NWDB,MKTGDPVNA646NWDB,Gross Domestic Product for Viet Nam,Annual
+DEBTTLINA188A,DEBTTLINA188A,"Central government debt, total (% of GDP) for India",Annual
+SIPOVGINIFRA,SIPOVGINIFRA,GINI Index for France,Annual
+ECBMLFR,ECBMLFR,ECB Marginal Lending Facility Rate for Euro Area,"Daily, 7-Day"
+POPTOTCN52647NWDB,POPTOTCN52647NWDB,"Population, Total for China",5 Year
+MKTGDPARA646NWDB,MKTGDPARA646NWDB,Gross Domestic Product for Argentina,Annual
+PCAGDPCAA646NWDB,PCAGDPCAA646NWDB,Gross Domestic Product Per Capita for Canada,Annual
+DEBTTLGRA188A,DEBTTLGRA188A,"Central government debt, total (% of GDP) for Greece",Annual
+SIPOVGINISWE,SIPOVGINISWE,GINI Index for Sweden,Annual
+NYGDPPCAPKDESP,NYGDPPCAPKDESP,Constant GDP per capita for Spain,Annual
+POPTOTCNA647NWDB,POPTOTCNA647NWDB,"Population, Total for China",Annual
+MKTGDPRUA646NWDB,MKTGDPRUA646NWDB,Gross Domestic Product for Russian Federation,Annual
+NYGDPPCAPKDBRA,NYGDPPCAPKDBRA,Constant GDP per capita for Brazil,Annual
+MKTGDPESA646NWDB,MKTGDPESA646NWDB,Gross Domestic Product for Spain,Annual
+PCAGDPJPA646NWDB,PCAGDPJPA646NWDB,Gross Domestic Product Per Capita for Japan,Annual
+MKTGDPTHA646NWDB,MKTGDPTHA646NWDB,Gross Domestic Product for Thailand,Annual
+FPCPITOTLZGZWE,FPCPITOTLZGZWE,"Inflation, consumer prices for Zimbabwe",Annual
+SIPOVGININGA,SIPOVGININGA,GINI Index for Nigeria,Annual
+SIPOVGINIARG,SIPOVGINIARG,GINI Index for Argentina,Annual
+SIPOVGINIMYS,SIPOVGINIMYS,GINI Index for Malaysia,Annual
+SIPOVGINIIRN,SIPOVGINIIRN,GINI Index for the Islamic Republic of Iran,Annual
+SPDYNIMRTINUSA,SPDYNIMRTINUSA,Infant Mortality Rate for the United States,Annual
+EONIARATE,EONIARATE,EONIA: Euro Interbank Offered Rate (DISCONTINUED),Daily
+MKTGDPSEA646NWDB,MKTGDPSEA646NWDB,Gross Domestic Product for Sweden,Annual
+FPCPITOTLZGTHA,FPCPITOTLZGTHA,"Inflation, consumer prices for Thailand",Annual
+FPCPITOTLZGPHL,FPCPITOTLZGPHL,"Inflation, consumer prices for the Philippines",Annual
+MKTGDPIRA646NWDB,MKTGDPIRA646NWDB,Gross Domestic Product for Islamic Republic of Iran,Annual
+FPCPITOTLZGGRC,FPCPITOTLZGGRC,"Inflation, consumer prices for Greece",Annual
+IDSBMRIAOW1,IDSBMRIAOW1,"Amount Outstanding of International Debt Securities for Issuers in Financial Institutions Sector (Banks), All Maturities, Residence of Issuer in All countries (DISCONTINUED)",Quarterly
+SIPOVGINITUR,SIPOVGINITUR,GINI Index for Turkey,Annual
+SIPOVGININOR,SIPOVGININOR,GINI Index for Norway,Annual
+NYGDPPCAPKDTUR,NYGDPPCAPKDTUR,Constant GDP per capita for Turkey,Annual
+NYGDPPCAPKDMEX,NYGDPPCAPKDMEX,Constant GDP per capita for Mexico,Annual
+ITCELSETSP2USA,ITCELSETSP2USA,Mobile Cellular Subscriptions in the United States,Annual
+SLEMPTOTLSPZSCHN,SLEMPTOTLSPZSCHN,Employment to Population Ratio for China,Annual
+MKTGDPPKA646NWDB,MKTGDPPKA646NWDB,Gross Domestic Product for Pakistan,Annual
+SPPOPGROWCHN,SPPOPGROWCHN,Population Growth for China,Annual
+DEBTTLGBA188A,DEBTTLGBA188A,"Central government debt, total (% of GDP) for the United Kingdom",Annual
+SPDYNIMRTINLDC,SPDYNIMRTINLDC,Infant Mortality Rate for Least Developed Countries,Annual
+DDEM01USA156NWDB,DDEM01USA156NWDB,Stock Market Turnover Ratio (Value Traded/Capitalization) for United States,Annual
+POPTOTCA52647NWDB,POPTOTCA52647NWDB,"Population, Total for Canada",5 Year
+NYGDPPCAPKDIRL,NYGDPPCAPKDIRL,Constant GDP per capita for Ireland,Annual
+MKTGDPCHA646NWDB,MKTGDPCHA646NWDB,Gross Domestic Product for Switzerland,Annual
+FPCPITOTLZGIDN,FPCPITOTLZGIDN,"Inflation, consumer prices for Indonesia",Annual
+FPCPITOTLZGSGP,FPCPITOTLZGSGP,"Inflation, consumer prices for Singapore",Annual
+MKTGDPAEA646NWDB,MKTGDPAEA646NWDB,Gross Domestic Product for United Arab Emirates,Annual
+MKTGDPSAA646NWDB,MKTGDPSAA646NWDB,Gross Domestic Product for Saudi Arabia,Annual
+SPDYNTFRTINCZE,SPDYNTFRTINCZE,"Fertility Rate, Total for the Czech Republic",Annual
+DEBTTLUSA188A,DEBTTLUSA188A,"Central government debt, total (% of GDP) for the United States",Annual
+ITNETUSERP2IND,ITNETUSERP2IND,Internet users for India,Annual
+DDSI02USA156NWDB,DDSI02USA156NWDB,Bank Non-Performing Loans to Gross Loans for United States,Annual
+NYGDPPCAPKDNZL,NYGDPPCAPKDNZL,Constant GDP per capita for New Zealand,Annual
+SPPOPTOTLARB,SPPOPTOTLARB,"Population, Total for the Arab World",Annual
+POPTOTCAA647NWDB,POPTOTCAA647NWDB,"Population, Total for Canada",Annual
+FPCPITOTLZGVNM,FPCPITOTLZGVNM,"Inflation, consumer prices for Viet Nam",Annual
+MKTGDPEGA646NWDB,MKTGDPEGA646NWDB,Gross Domestic Product for Egypt,Annual
+FPCPITOTLZGZAF,FPCPITOTLZGZAF,"Inflation, consumer prices for South Africa",Annual
+PCAGDPDEA646NWDB,PCAGDPDEA646NWDB,Gross Domestic Product Per Capita for Germany,Annual
+FPCPITOTLZGSWE,FPCPITOTLZGSWE,"Inflation, consumer prices for Sweden",Annual
+FPCPITOTLZGVEN,FPCPITOTLZGVEN,"Inflation, consumer prices for the Bolivarian Republic of Venezuela",Annual
+RBXMBIS,RBXMBIS,Real Broad Effective Exchange Rate for Euro Area,Monthly
+SPDYNTFRTINCHN,SPDYNTFRTINCHN,"Fertility Rate, Total for China",Annual
+DEBTTLITA188A,DEBTTLITA188A,"Central government debt, total (% of GDP) for Italy",Annual
+GCDODTOTLGDZSEUU,GCDODTOTLGDZSEUU,"Central government debt, total (% of GDP) for the European Union",Annual
+DDDI06USA156NWDB,DDDI06USA156NWDB,Central Bank Assets to GDP for United States,Annual
+SIPOVGININLD,SIPOVGININLD,GINI Index for the Netherlands,Annual
+SIPOVGINIITA,SIPOVGINIITA,GINI Index for Italy,Annual
+FPCPITOTLZGMYS,FPCPITOTLZGMYS,"Inflation, consumer prices for Malaysia",Annual
+FPCPITOTLZGCHE,FPCPITOTLZGCHE,"Inflation, consumer prices for Switzerland",Annual
+FPCPITOTLZGNOR,FPCPITOTLZGNOR,"Inflation, consumer prices for Norway",Annual
+MKTGDPTRA646NWDB,MKTGDPTRA646NWDB,Gross Domestic Product for Turkey,Annual
+SIPOVGINIVNM,SIPOVGINIVNM,GINI Index for Viet Nam,Annual
+SIPOVGINIZAF,SIPOVGINIZAF,GINI Index for South Africa,Annual
+BOGZ1FA263169705A,BOGZ1FA263169705A,"Rest of the World; Customers' Liability on Acceptances Outstanding to Commercial Banking; Liability, Transactions",Annual
+BOGZ1FA263169705Q,BOGZ1FA263169705Q,"Rest of the World; Customers' Liability on Acceptances Outstanding to Commercial Banking; Liability, Transactions",Quarterly
+BOGZ1FU263169705Q,BOGZ1FU263169705Q,"Rest of the World; Customers' Liability on Acceptances Outstanding to Commercial Banking; Liability, Transactions",Quarterly
+BOGZ1FU263169705A,BOGZ1FU263169705A,"Rest of the World; Customers' Liability on Acceptances Outstanding to Commercial Banking; Liability, Transactions",Annual
+MKTGDPGRA646NWDB,MKTGDPGRA646NWDB,Gross Domestic Product for Greece,Annual
+ICBUSEASEXQUSA,ICBUSEASEXQUSA,Ease of doing business index for the United States,Annual
+MKTGDPPHA646NWDB,MKTGDPPHA646NWDB,Gross Domestic Product for Philippines,Annual
+FPCPITOTLZGETH,FPCPITOTLZGETH,"Inflation, consumer prices for Ethiopia",Annual
+SPDYNCBRTINCHN,SPDYNCBRTINCHN,Crude Birth Rate for China,Annual
+MKTGNICNA646NWDB,MKTGNICNA646NWDB,Gross National Income for China,Annual
+DDSI051WA156NWDB,DDSI051WA156NWDB,Bank Regulatory Capital to Risk-Weighted Assets for World (DISCONTINUED),Annual
+DEBTTLMYA188A,DEBTTLMYA188A,"Central government debt, total (% of GDP) for Malaysia",Annual
+DEBTTLDEA188A,DEBTTLDEA188A,"Central government debt, total (% of GDP) for Germany",Annual
+SIPOVGINIPAK,SIPOVGINIPAK,GINI Index for Pakistan,Annual
+SIPOVGINIESP,SIPOVGINIESP,GINI Index for Spain,Annual
+SIPOVGINICHE,SIPOVGINICHE,GINI Index for Switzerland,Annual
+BOGZ1FL263169705Q,BOGZ1FL263169705Q,"Rest of the World; Customers' Liability on Acceptances Outstanding to Commercial Banking; Liability, Level",Quarterly
+BOGZ1FR263169705Q,BOGZ1FR263169705Q,"Rest of the World; Customers' Liability on Acceptances Outstanding to Commercial Banking; Liability, Revaluation",Quarterly
+BOGZ1FL263169705A,BOGZ1FL263169705A,"Rest of the World; Customers' Liability on Acceptances Outstanding to Commercial Banking; Liability, Level",Annual
+BOGZ1FR263169705A,BOGZ1FR263169705A,"Rest of the World; Customers' Liability on Acceptances Outstanding to Commercial Banking; Liability, Revaluation",Annual
+POPTOTDE52647NWDB,POPTOTDE52647NWDB,"Population, Total for Germany",5 Year
+NYGDPPCAPKDGRC,NYGDPPCAPKDGRC,Constant GDP per capita for Greece,Annual
+MKTGDPNOA646NWDB,MKTGDPNOA646NWDB,Gross Domestic Product for Norway,Annual
+DDOE01ARA086NWDB,DDOE01ARA086NWDB,Consumer Price Index for Argentina,"Annual, End of Year"
+FPCPITOTLZGCOL,FPCPITOTLZGCOL,"Inflation, consumer prices for Colombia",Annual
+SLUEM1524ZSKEN,SLUEM1524ZSKEN,Youth Unemployment Rate for Kenya,Annual
+SPDYNTFRTINPSE,SPDYNTFRTINPSE,"Fertility Rate, Total for the Occupied Palestinian Territory",Annual
+DEBTTLIDA188A,DEBTTLIDA188A,"Central government debt, total (% of GDP) for Indonesia",Annual
+QXMN628BIS,QXMN628BIS,Residential Property Prices for Euro area,Quarterly
+SIPOVGINIDNK,SIPOVGINIDNK,GINI Index for Denmark,Annual
+SIPOVGINIETH,SIPOVGINIETH,GINI Index for Ethiopia,Annual
+SIPOVGINIIRL,SIPOVGINIIRL,GINI Index for Ireland,Annual
+SIPOVGINICHL,SIPOVGINICHL,GINI Index for Chile,Annual
+SIPOVGINIPOL,SIPOVGINIPOL,GINI Index for Poland,Annual
+SIPOVGINICOL,SIPOVGINICOL,GINI Index for Colombia,Annual
+POPTOTIN52647NWDB,POPTOTIN52647NWDB,"Population, Total for India",5 Year
+SPDYNIMRTINPHL,SPDYNIMRTINPHL,Infant Mortality Rate for the Philippines,Annual
+MKTGDPNLA646NWDB,MKTGDPNLA646NWDB,Gross Domestic Product for Netherlands,Annual
+MKTGDPPLA646NWDB,MKTGDPPLA646NWDB,Gross Domestic Product for Poland,Annual
+DDOE02ARA086NWDB,DDOE02ARA086NWDB,Consumer Price Index for Argentina,Annual
+NYGDPPCAPKDUKR,NYGDPPCAPKDUKR,Constant GDP per capita for Ukraine,Annual
+NYGDPPCAPKDPHL,NYGDPPCAPKDPHL,Constant GDP per capita for the Philippines,Annual
+SPDYNCBRTINPHL,SPDYNCBRTINPHL,Crude Birth Rate for the Philippines,Annual
+FPCPITOTLZGQAT,FPCPITOTLZGQAT,"Inflation, consumer prices for Qatar",Annual
+POPTOTDEA647NWDB,POPTOTDEA647NWDB,"Population, Total for Germany",Annual
+PCAGDPINA646NWDB,PCAGDPINA646NWDB,Gross Domestic Product Per Capita for India,Annual
+SPDYNTFRTINKOR,SPDYNTFRTINKOR,"Fertility Rate, Total for the Republic of Korea",Annual
+DEBTTLBRA188A,DEBTTLBRA188A,"Central government debt, total (% of GDP) for Brazil",Annual
+IDSBMRINIW1,IDSBMRINIW1,"Net Issues of International Debt Securities for Issuers in Financial Institutions Sector (Banks), All Maturities, Residence of Issuer in All countries (DISCONTINUED)",Quarterly
+QXMN368BIS,QXMN368BIS,Residential Property Prices for Euro area,Quarterly
+NYGDPMKTPCDEUU,NYGDPMKTPCDEUU,Gross Domestic Product for the European Union,Annual
+GCDODTOTLGDZSOED,GCDODTOTLGDZSOED,"Central government debt, total (% of GDP) for OECD Members",Annual
+ITNETUSERP2PHL,ITNETUSERP2PHL,Internet users for the Philippines,Annual
+SIPOVGINIECU,SIPOVGINIECU,GINI Index for Ecuador,Annual
+SIPOVGINIVEN,SIPOVGINIVEN,GINI Index for the Bolivarian Republic of Venezuela,Annual
+SIPOVGINILKA,SIPOVGINILKA,GINI Index for Sri Lanka,Annual
+SIPOVGINICOD,SIPOVGINICOD,GINI Index for the Democratic Republic of the Congo,Annual
+NYGDPPCAPKDPOL,NYGDPPCAPKDPOL,Constant GDP per capita for Poland,Annual
+NYGDPPCAPKDZAF,NYGDPPCAPKDZAF,Constant GDP per capita for South Africa,Annual
+NYGDPPCAPKDCHL,NYGDPPCAPKDCHL,Constant GDP per capita for Chile,Annual
+FPCPITOTLZGNZL,FPCPITOTLZGNZL,"Inflation, consumer prices for New Zealand",Annual
+POPTOTINA647NWDB,POPTOTINA647NWDB,"Population, Total for India",Annual
+MKTGDPHKA646NWDB,MKTGDPHKA646NWDB,"Gross Domestic Product for Hong Kong SAR, China",Annual
+MKTGDPUAA646NWDB,MKTGDPUAA646NWDB,Gross Domestic Product for Ukraine,Annual
+PCAGDPGBA646NWDB,PCAGDPGBA646NWDB,Gross Domestic Product Per Capita for United Kingdom,Annual
+FPCPITOTLZGPOL,FPCPITOTLZGPOL,"Inflation, consumer prices for Poland",Annual
+PCAGDPARA646NWDB,PCAGDPARA646NWDB,Gross Domestic Product Per Capita for Argentina,Annual
+SPDYNTFRTININD,SPDYNTFRTININD,"Fertility Rate, Total for India",Annual
+ITNETUSERP2WLD,ITNETUSERP2WLD,Internet users for the World,Annual
+SPDYNCBRTINLDC,SPDYNCBRTINLDC,Crude Birth Rate for Least Developed Countries,Annual
+GCDODTOTLGDZSEMU,GCDODTOTLGDZSEMU,"Central government debt, total (% of GDP) for the Euro Area",Annual
+ITNETUSERP2BGD,ITNETUSERP2BGD,Internet users for Bangladesh,Annual
+DDDM03USA156NWDB,DDDM03USA156NWDB,Outstanding Domestic Private Debt Securities to GDP for United States,Annual
+SIPOVGINIISR,SIPOVGINIISR,GINI Index for Israel,Annual
+SIPOVGINIAUS,SIPOVGINIAUS,GINI Index for Australia,Annual
+SIPOVGINIBGD,SIPOVGINIBGD,GINI Index for Bangladesh,Annual
+SIPOVGINIGRC,SIPOVGINIGRC,GINI Index for Greece,Annual
+POPTOT1W52647NWDB,POPTOT1W52647NWDB,"Population, Total for World",5 Year
+DDEI01USA156NWDB,DDEI01USA156NWDB,Bank's Net Interest Margin for United States,Annual
+NYGDPPCAPKDMYS,NYGDPPCAPKDMYS,Constant GDP per capita for Malaysia,Annual
+NYGDPPCAPKDSWE,NYGDPPCAPKDSWE,Constant GDP per capita for Sweden,Annual
+NYGDPPCAPKDIRN,NYGDPPCAPKDIRN,Constant GDP per capita for the Islamic Republic of Iran,Annual
+NYGDPPCAPKDVEN,NYGDPPCAPKDVEN,Constant GDP per capita for the Bolivarian Republic of Venezuela,Annual
+NYGDPPCAPKDIDN,NYGDPPCAPKDIDN,Constant GDP per capita for Indonesia,Annual
+ICBUSEASEXQSAU,ICBUSEASEXQSAU,Ease of doing business index for Saudi Arabia,Annual
+ICBUSEASEXQDZA,ICBUSEASEXQDZA,Ease of doing business index for Algeria,Annual
+FPCPITOTLZGCHL,FPCPITOTLZGCHL,"Inflation, consumer prices for Chile",Annual
+SPPOPGROWPHL,SPPOPGROWPHL,Population Growth for the Philippines,Annual
+SPPOPDPNDOLJPN,SPPOPDPNDOLJPN,Age Dependency Ratio: Older Dependents to Working-Age Population for Japan,Annual
+MKTGDPMAA646NWDB,MKTGDPMAA646NWDB,Gross Domestic Product for Morocco,Annual
+FPCPITOTLZGROU,FPCPITOTLZGROU,"Inflation, consumer prices for Romania",Annual
+SLUEM1524ZSETH,SLUEM1524ZSETH,Youth Unemployment Rate for Ethiopia,Annual
+MKTGNIGBA646NWDB,MKTGNIGBA646NWDB,Gross National Income for United Kingdom,Annual
+SPPOP1564TOZSCHN,SPPOP1564TOZSCHN,Population Ages 15 to 64 for China,Annual
+FPCPITOTLZGNGA,FPCPITOTLZGNGA,"Inflation, consumer prices for Nigeria",Annual
+MKTGDPBRA646NWDB,MKTGDPBRA646NWDB,Gross Domestic Product for Brazil,Annual
+DEBTTLESA188A,DEBTTLESA188A,"Central government debt, total (% of GDP) for Spain",Annual
+DEBTTLCHA188A,DEBTTLCHA188A,"Central government debt, total (% of GDP) for Switzerland",Annual
+SIPOVGINIUKR,SIPOVGINIUKR,GINI Index for Ukraine,Annual
+SIPOVGINIKHM,SIPOVGINIKHM,GINI Index for Cambodia,Annual
+SIPOVGINIPER,SIPOVGINIPER,GINI Index for Peru,Annual
+SIPOVGINIFIN,SIPOVGINIFIN,GINI Index for Finland,Annual
+SIPOVGINIGHA,SIPOVGINIGHA,GINI Index for Ghana,Annual
+SIPOVGINIKEN,SIPOVGINIKEN,GINI Index for Kenya,Annual
+MKTGDPPTA646NWDB,MKTGDPPTA646NWDB,Gross Domestic Product for Portugal,Annual
+MKTGDPBEA646NWDB,MKTGDPBEA646NWDB,Gross Domestic Product for Belgium,Annual
+NYGDPPCAPCDPSE,NYGDPPCAPCDPSE,Gross Domestic Product Per Capita for the West Bank and Gaza,Annual
+NYGDPPCAPKDPRT,NYGDPPCAPKDPRT,Constant GDP per capita for Portugal,Annual
+NYGDPPCAPKDTHA,NYGDPPCAPKDTHA,Constant GDP per capita for Thailand,Annual
+NYGDPPCAPKDISR,NYGDPPCAPKDISR,Constant GDP per capita for Israel,Annual
+NYGDPPCAPKDSGP,NYGDPPCAPKDSGP,Constant GDP per capita for Singapore,Annual
+SPPOPTOTLWLD,SPPOPTOTLWLD,"Population, Total for World",Annual
+ICBUSEASEXQCOM,ICBUSEASEXQCOM,Ease of doing business index for Comoros,Annual
+ICBUSEASEXQLKA,ICBUSEASEXQLKA,Ease of doing business index for Sri Lanka,Annual
+ICBUSEASEXQPAK,ICBUSEASEXQPAK,Ease of doing business index for Pakistan,Annual
+ICBUSEASEXQGBR,ICBUSEASEXQGBR,Ease of doing business index for the United Kingdom,Annual
+ICBUSEASEXQEGY,ICBUSEASEXQEGY,Ease of doing business index for Egypt,Annual
+SMPOPNETMJPN,SMPOPNETMJPN,Net migration for Japan,5 Year
+SMPOPNETMMEX,SMPOPNETMMEX,Net migration for Mexico,5 Year
+FPCPITOTLZGPAK,FPCPITOTLZGPAK,"Inflation, consumer prices for Pakistan",Annual
+SPPOPGROWIND,SPPOPGROWIND,Population Growth for India,Annual
+SPDYNCBRTINJPN,SPDYNCBRTINJPN,Crude Birth Rate for Japan,Annual
+FPCPITOTLZGPER,FPCPITOTLZGPER,"Inflation, consumer prices for Peru",Annual
+PCAGDPMXA646NWDB,PCAGDPMXA646NWDB,Gross Domestic Product Per Capita for Mexico,Annual
+NYGDPMKTPCDPRI,NYGDPMKTPCDPRI,Gross Domestic Product for Puerto Rico,Annual
+SPDYNTFRTINRUS,SPDYNTFRTINRUS,"Fertility Rate, Total for the Russian Federation",Annual
+DEBTTLIEA188A,DEBTTLIEA188A,"Central government debt, total (% of GDP) for Ireland",Annual
+DEBTTLNZA188A,DEBTTLNZA188A,"Central government debt, total (% of GDP) for New Zealand",Annual
+POPTOTPR52647NWDB,POPTOTPR52647NWDB,"Population, Total for Puerto Rico",5 Year
+ITNETUSERP2CAN,ITNETUSERP2CAN,Internet users for Canada,Annual
+ITNETUSERP2ZAF,ITNETUSERP2ZAF,Internet users for South Africa,Annual
+ITNETUSERP2MMR,ITNETUSERP2MMR,Internet users for Myanmar,Annual
+ITNETUSERP2PAK,ITNETUSERP2PAK,Internet users for Pakistan,Annual
+POPTOT1WA647NWDB,POPTOT1WA647NWDB,"Population, Total for World",Annual
+SIPOVGINIROU,SIPOVGINIROU,GINI Index for Romania,Annual
+SIPOVGINIHUN,SIPOVGINIHUN,GINI Index for Hungary,Annual
+SIPOVGINIHTI,SIPOVGINIHTI,GINI Index for Haiti,Annual
+SIPOVGINIEGY,SIPOVGINIEGY,GINI Index for Egypt,Annual
+SIPOVGINIHND,SIPOVGINIHND,GINI Index for Honduras,Annual
+SIPOVGINIBEL,SIPOVGINIBEL,GINI Index for Belgium,Annual
+SIPOVGINIBGR,SIPOVGINIBGR,GINI Index for Bulgaria,Annual
+MKTGDPIEA646NWDB,MKTGDPIEA646NWDB,Gross Domestic Product for Ireland,Annual
+SEADTLITRZSPHL,SEADTLITRZSPHL,"Literacy Rate, Adult Total for the Philippines",Annual
+NYGDPPCAPKDCOL,NYGDPPCAPKDCOL,Constant GDP per capita for Colombia,Annual
+ECBASSETS,ECBASSETS,Central Bank Assets for Euro Area (11-19 Countries) (DISCONTINUED),"Monthly, End of Month"
+ICBUSEASEXQNIC,ICBUSEASEXQNIC,Ease of doing business index for Nicaragua,Annual
+ICBUSEASEXQNPL,ICBUSEASEXQNPL,Ease of doing business index for Nepal,Annual
+ICBUSEASEXQJOR,ICBUSEASEXQJOR,Ease of doing business index for Jordan,Annual
+ICBUSEASEXQMEX,ICBUSEASEXQMEX,Ease of doing business index for Mexico,Annual
+ICBUSEASEXQLVA,ICBUSEASEXQLVA,Ease of doing business index for Latvia,Annual
+ICBUSEASEXQSRB,ICBUSEASEXQSRB,Ease of doing business index for Serbia,Annual
+ICBUSEASEXQKEN,ICBUSEASEXQKEN,Ease of doing business index for Kenya,Annual
+ICBUSEASEXQAUS,ICBUSEASEXQAUS,Ease of doing business index for Australia,Annual
+ICBUSEASEXQQAT,ICBUSEASEXQQAT,Ease of doing business index for Qatar,Annual
+ICBUSEASEXQUZB,ICBUSEASEXQUZB,Ease of doing business index for Uzbekistan,Annual
+SMPOPNETMCAN,SMPOPNETMCAN,Net migration for Canada,5 Year
+SMPOPNETMCHN,SMPOPNETMCHN,Net migration for China,5 Year
+ICBUSEASEXQWLD,ICBUSEASEXQWLD,Ease of doing business index for the World,Annual
+ICBUSEASEXQPSE,ICBUSEASEXQPSE,Ease of doing business index for the Occupied Palestinian Territory,Annual
+FPCPITOTLZGGHA,FPCPITOTLZGGHA,"Inflation, consumer prices for Ghana",Annual
+SLUEM1524ZSPHL,SLUEM1524ZSPHL,Youth Unemployment Rate for the Philippines,Annual
+NYGNPMKTPCDPRI,NYGNPMKTPCDPRI,Gross National Income for Puerto Rico,Annual
+SLUEM1524ZSTZA,SLUEM1524ZSTZA,Youth Unemployment Rate for the United Republic of Tanzania,Annual
+FPCPITOTLZGNLD,FPCPITOTLZGNLD,"Inflation, consumer prices for the Netherlands",Annual
+FPCPITOTLZGECU,FPCPITOTLZGECU,"Inflation, consumer prices for Ecuador",Annual
+PCAGDPSGA646NWDB,PCAGDPSGA646NWDB,Gross Domestic Product Per Capita for Singapore,Annual
+MKTGNIEGA646NWDB,MKTGNIEGA646NWDB,Gross National Income for Egypt,Annual
+SPADOTFRTIND,SPADOTFRTIND,Adolescent Fertility Rate for India,Annual
+SEENRSECOFMZSUSA,SEENRSECOFMZSUSA,Ratio of Female to Male Secondary School Enrollment for the United States,Annual
+FPCPITOTLZGARE,FPCPITOTLZGARE,"Inflation, consumer prices for the United Arab Emirates",Annual
+MKTGDPPEA646NWDB,MKTGDPPEA646NWDB,Gross Domestic Product for Peru,Annual
+DEBTTLFRA188A,DEBTTLFRA188A,"Central government debt, total (% of GDP) for France",Annual
+DEBTTLTHA188A,DEBTTLTHA188A,"Central government debt, total (% of GDP) for Thailand",Annual
+DEBTTLRUA188A,DEBTTLRUA188A,"Central government debt, total (% of GDP) for the Russian Federation",Annual
+DEBTTLAUA188A,DEBTTLAUA188A,"Central government debt, total (% of GDP) for Australia",Annual
+POPTOTAU52647NWDB,POPTOTAU52647NWDB,"Population, Total for Australia",5 Year
+ICBUSEASEXQNOC,ICBUSEASEXQNOC,Ease of doing business index for the Non-OECD,Annual
+SPPOPTOTLLMC,SPPOPTOTLLMC,"Population, Total for Lower Middle Income Countries",Annual
+SPDYNTFRTINLDC,SPDYNTFRTINLDC,"Fertility Rate, Total for Least Developed Countries",Annual
+ITNETUSERP2ITA,ITNETUSERP2ITA,Internet users for Italy,Annual
+ITNETUSERP2SSD,ITNETUSERP2SSD,Internet users for the Republic of South Sudan,Annual
+ITNETUSERP2MWI,ITNETUSERP2MWI,Internet users for Malawi,Annual
+ITNETUSERP2TUR,ITNETUSERP2TUR,Internet users for Turkey,Annual
+ITNETUSERP2CHL,ITNETUSERP2CHL,Internet users for Chile,Annual
+SIPOVGINIJAM,SIPOVGINIJAM,GINI Index for Jamaica,Annual
+SIPOVGINIURY,SIPOVGINIURY,GINI Index for Uruguay,Annual
+SIPOVGINIMWI,SIPOVGINIMWI,GINI Index for Malawi,Annual
+SIPOVGINIMOZ,SIPOVGINIMOZ,GINI Index for Mozambique,Annual
+SIPOVGINIAUT,SIPOVGINIAUT,GINI Index for Austria,Annual
+SIPOVGINISEN,SIPOVGINISEN,GINI Index for Senegal,Annual
+SIPOVGINILTU,SIPOVGINILTU,GINI Index for Lithuania,Annual
+SIPOVGINIALB,SIPOVGINIALB,GINI Index for Albania,Annual
+NYGDPPCAPKDARE,NYGDPPCAPKDARE,Constant GDP per capita for the United Arab Emirates,Annual
+NYGDPPCAPKDCUB,NYGDPPCAPKDCUB,Constant GDP per capita for Cuba,Annual
+NYGDPPCAPKDDNK,NYGDPPCAPKDDNK,Constant GDP per capita for Denmark,Annual
+NYGDPPCAPKDMAR,NYGDPPCAPKDMAR,Constant GDP per capita for Morocco,Annual
+DDAI02USA643NWDB,DDAI02USA643NWDB,Number of Bank Branches for United States,Annual
+SMPOPREFGSDN,SMPOPREFGSDN,Refugee Population by Country or Territory of Asylum for the Sudan,Annual
+ICBUSEASEXQDEU,ICBUSEASEXQDEU,Ease of doing business index for Germany,Annual
+ICBUSEASEXQCHN,ICBUSEASEXQCHN,Ease of doing business index for China,Annual
+ICBUSEASEXQTUN,ICBUSEASEXQTUN,Ease of doing business index for Tunisia,Annual
+ICBUSEASEXQETH,ICBUSEASEXQETH,Ease of doing business index for Ethiopia,Annual
+ICBUSEASEXQCOL,ICBUSEASEXQCOL,Ease of doing business index for Colombia,Annual
+ICBUSEASEXQBLR,ICBUSEASEXQBLR,Ease of doing business index for Belarus,Annual
+ICBUSEASEXQNOR,ICBUSEASEXQNOR,Ease of doing business index for Norway,Annual
+ICBUSEASEXQSGP,ICBUSEASEXQSGP,Ease of doing business index for Singapore,Annual
+ICBUSEASEXQJPN,ICBUSEASEXQJPN,Ease of doing business index for Japan,Annual
+ICBUSEASEXQTHA,ICBUSEASEXQTHA,Ease of doing business index for Thailand,Annual
+ICBUSEASEXQCHE,ICBUSEASEXQCHE,Ease of doing business index for Switzerland,Annual
+ICBUSEASEXQBGD,ICBUSEASEXQBGD,Ease of doing business index for Bangladesh,Annual
+ICBUSEASEXQVEN,ICBUSEASEXQVEN,Ease of doing business index for the Bolivarian Republic of Venezuela,Annual
+ICBUSEASEXQZWE,ICBUSEASEXQZWE,Ease of doing business index for Zimbabwe,Annual
+ICBUSEASEXQBRA,ICBUSEASEXQBRA,Ease of doing business index for Brazil,Annual
+ICBUSEASEXQMMR,ICBUSEASEXQMMR,Ease of doing business index for Myanmar,Annual
+ICBUSEASEXQROU,ICBUSEASEXQROU,Ease of doing business index for Romania,Annual
+ICBUSEASEXQIRN,ICBUSEASEXQIRN,Ease of doing business index for the Islamic Republic of Iran,Annual
+ICBUSEASEXQARM,ICBUSEASEXQARM,Ease of doing business index for Armenia,Annual
+ICBUSEASEXQLUX,ICBUSEASEXQLUX,Ease of doing business index for Luxembourg,Annual
+ICBUSEASEXQAGO,ICBUSEASEXQAGO,Ease of doing business index for Angola,Annual
+ICBUSEASEXQHRV,ICBUSEASEXQHRV,Ease of doing business index for Croatia,Annual
+ICBUSEASEXQSLB,ICBUSEASEXQSLB,Ease of doing business index for the Solomon Islands,Annual
+ICBUSEASEXQPER,ICBUSEASEXQPER,Ease of doing business index for Peru,Annual
+ICBUSEASEXQGTM,ICBUSEASEXQGTM,Ease of doing business index for Guatemala,Annual
+ICBUSEASEXQHND,ICBUSEASEXQHND,Ease of doing business index for Honduras,Annual
+ICBUSEASEXQUKR,ICBUSEASEXQUKR,Ease of doing business index for Ukraine,Annual
+ICBUSEASEXQBGR,ICBUSEASEXQBGR,Ease of doing business index for Bulgaria,Annual
+ICBUSEASEXQDMA,ICBUSEASEXQDMA,Ease of doing business index for Dominica,Annual
+ICBUSEASEXQKNA,ICBUSEASEXQKNA,Ease of doing business index for St. Kitts and Nevis,Annual
+ICBUSEASEXQTUR,ICBUSEASEXQTUR,Ease of doing business index for Turkey,Annual
+ICBUSEASEXQITA,ICBUSEASEXQITA,Ease of doing business index for Italy,Annual
+ICBUSEASEXQSYR,ICBUSEASEXQSYR,Ease of doing business index for the Syrian Arab Republic,Annual
+ICBUSEASEXQIDN,ICBUSEASEXQIDN,Ease of doing business index for Indonesia,Annual
+ICBUSEASEXQFRA,ICBUSEASEXQFRA,Ease of doing business index for France,Annual
+ICBUSEASEXQNER,ICBUSEASEXQNER,Ease of doing business index for Niger,Annual
+ICBUSEASEXQPRY,ICBUSEASEXQPRY,Ease of doing business index for Paraguay,Annual
+ICBUSEASEXQNGA,ICBUSEASEXQNGA,Ease of doing business index for Nigeria,Annual
+ICBUSEASEXQLCA,ICBUSEASEXQLCA,Ease of doing business index for St. Lucia,Annual
+ICBUSEASEXQERI,ICBUSEASEXQERI,Ease of doing business index for Eritrea,Annual
+ICBUSEASEXQZMB,ICBUSEASEXQZMB,Ease of doing business index for Zambia,Annual
+ICBUSEASEXQMNG,ICBUSEASEXQMNG,Ease of doing business index for Mongolia,Annual
+ICBUSEASEXQCMR,ICBUSEASEXQCMR,Ease of doing business index for Cameroon,Annual
+ICBUSEASEXQATG,ICBUSEASEXQATG,Ease of doing business index for Antigua and Barbuda,Annual
+ICBUSEASEXQWSM,ICBUSEASEXQWSM,Ease of doing business index for Samoa,Annual
+ICBUSEASEXQGIN,ICBUSEASEXQGIN,Ease of doing business index for Guinea,Annual
+ICBUSEASEXQMHL,ICBUSEASEXQMHL,Ease of doing business index for the Marshall Islands,Annual
+ICBUSEASEXQBTN,ICBUSEASEXQBTN,Ease of doing business index for Bhutan,Annual
+ICBUSEASEXQKOR,ICBUSEASEXQKOR,Ease of doing business index for the Republic of Korea,Annual
+ICBUSEASEXQMDV,ICBUSEASEXQMDV,Ease of doing business index for Maldives,Annual
+ICBUSEASEXQBRB,ICBUSEASEXQBRB,Ease of doing business index for Barbados,Annual
+ICBUSEASEXQOMN,ICBUSEASEXQOMN,Ease of doing business index for Oman,Annual
+ICBUSEASEXQHTI,ICBUSEASEXQHTI,Ease of doing business index for Haiti,Annual
+ICBUSEASEXQTTO,ICBUSEASEXQTTO,Ease of doing business index for Trinidad and Tobago,Annual
+ICBUSEASEXQSLE,ICBUSEASEXQSLE,Ease of doing business index for Sierra Leone,Annual
+ICBUSEASEXQRWA,ICBUSEASEXQRWA,Ease of doing business index for Rwanda,Annual
+ICBUSEASEXQMNE,ICBUSEASEXQMNE,Ease of doing business index for Montenegro,Annual
+ICBUSEASEXQARG,ICBUSEASEXQARG,Ease of doing business index for Argentina,Annual
+ICBUSEASEXQCOD,ICBUSEASEXQCOD,Ease of doing business index for the Democratic Republic of the Congo,Annual
+ICBUSEASEXQMOZ,ICBUSEASEXQMOZ,Ease of doing business index for Mozambique,Annual
+ICBUSEASEXQZAF,ICBUSEASEXQZAF,Ease of doing business index for South Africa,Annual
+ICBUSEASEXQBRN,ICBUSEASEXQBRN,Ease of doing business index for Brunei Darussalam,Annual
+ICBUSEASEXQMYS,ICBUSEASEXQMYS,Ease of doing business index for Malaysia,Annual
+ICBUSEASEXQBHS,ICBUSEASEXQBHS,Ease of doing business index for the Bahamas,Annual
+ICBUSEASEXQMUS,ICBUSEASEXQMUS,Ease of doing business index for Mauritius,Annual
+ICBUSEASEXQLAO,ICBUSEASEXQLAO,Ease of doing business index for the Lao People's Democratic Republic,Annual
+ICBUSEASEXQKAZ,ICBUSEASEXQKAZ,Ease of doing business index for Kazakhstan,Annual
+ICBUSEASEXQCAN,ICBUSEASEXQCAN,Ease of doing business index for Canada,Annual
+ICBUSEASEXQMWI,ICBUSEASEXQMWI,Ease of doing business index for Malawi,Annual
+ICBUSEASEXQLBN,ICBUSEASEXQLBN,Ease of doing business index for Lebanon,Annual
+ICBUSEASEXQTLS,ICBUSEASEXQTLS,Ease of doing business index for the Democratic Republic of Timor-Leste,Annual
+ICBUSEASEXQRUS,ICBUSEASEXQRUS,Ease of doing business index for the Russian Federation,Annual
+ICBUSEASEXQBEL,ICBUSEASEXQBEL,Ease of doing business index for Belgium,Annual
+ICBUSEASEXQALB,ICBUSEASEXQALB,Ease of doing business index for Albania,Annual
+ICBUSEASEXQCHL,ICBUSEASEXQCHL,Ease of doing business index for Chile,Annual
+ICBUSEASEXQCRI,ICBUSEASEXQCRI,Ease of doing business index for Costa Rica,Annual
+ICBUSEASEXQKGZ,ICBUSEASEXQKGZ,Ease of doing business index for the Kyrgyz Republic,Annual
+ICBUSEASEXQFJI,ICBUSEASEXQFJI,Ease of doing business index for Fiji,Annual
+ICBUSEASEXQIRQ,ICBUSEASEXQIRQ,Ease of doing business index for Iraq,Annual
+ICBUSEASEXQKHM,ICBUSEASEXQKHM,Ease of doing business index for Cambodia,Annual
+ICBUSEASEXQVNM,ICBUSEASEXQVNM,Ease of doing business index for Viet Nam,Annual
+ICBUSEASEXQBOL,ICBUSEASEXQBOL,Ease of doing business index for the Plurinational State of Bolivia,Annual
+ICBUSEASEXQGEO,ICBUSEASEXQGEO,Ease of doing business index for Georgia,Annual
+ICBUSEASEXQTGO,ICBUSEASEXQTGO,Ease of doing business index for Togo,Annual
+ICBUSEASEXQLTU,ICBUSEASEXQLTU,Ease of doing business index for Lithuania,Annual
+ICBUSEASEXQIND,ICBUSEASEXQIND,Ease of doing business index for India,Annual
+ICBUSEASEXQECU,ICBUSEASEXQECU,Ease of doing business index for Ecuador,Annual
+ICBUSEASEXQMDG,ICBUSEASEXQMDG,Ease of doing business index for Madagascar,Annual
+ICBUSEASEXQPRT,ICBUSEASEXQPRT,Ease of doing business index for Portugal,Annual
+ICBUSEASEXQARE,ICBUSEASEXQARE,Ease of doing business index for the United Arab Emirates,Annual
+ICBUSEASEXQISR,ICBUSEASEXQISR,Ease of doing business index for Israel,Annual
+ICBUSEASEXQTZA,ICBUSEASEXQTZA,Ease of doing business index for the United Republic of Tanzania,Annual
+ICBUSEASEXQVCT,ICBUSEASEXQVCT,Ease of doing business index for Saint Vincent and the Grenadines,Annual
+ICBUSEASEXQKSV,ICBUSEASEXQKSV,Ease of doing business index for Kosovo,Annual
+ICBUSEASEXQPAN,ICBUSEASEXQPAN,Ease of doing business index for Panama,Annual
+ICBUSEASEXQNZL,ICBUSEASEXQNZL,Ease of doing business index for New Zealand,Annual
+ICBUSEASEXQPRI,ICBUSEASEXQPRI,Ease of doing business index for Puerto Rico,Annual
+ICBUSEASEXQBWA,ICBUSEASEXQBWA,Ease of doing business index for Botswana,Annual
+ICBUSEASEXQSWZ,ICBUSEASEXQSWZ,Ease of doing business index for Swaziland,Annual
+ICBUSEASEXQFIN,ICBUSEASEXQFIN,Ease of doing business index for Finland,Annual
+ICBUSEASEXQHUN,ICBUSEASEXQHUN,Ease of doing business index for Hungary,Annual
+ICBUSEASEXQMRT,ICBUSEASEXQMRT,Ease of doing business index for Mauritania,Annual
+ICBUSEASEXQGRD,ICBUSEASEXQGRD,Ease of doing business index for Grenada,Annual
+ICBUSEASEXQPHL,ICBUSEASEXQPHL,Ease of doing business index for the Philippines,Annual
+ICBUSEASEXQCZE,ICBUSEASEXQCZE,Ease of doing business index for the Czech Republic,Annual
+ICBUSEASEXQGMB,ICBUSEASEXQGMB,Ease of doing business index for the Republic of the Gambia,Annual
+ICBUSEASEXQSUR,ICBUSEASEXQSUR,Ease of doing business index for Suriname,Annual
+ICBUSEASEXQMLT,ICBUSEASEXQMLT,Ease of doing business index for Malta,Annual
+ICBUSEASEXQESP,ICBUSEASEXQESP,Ease of doing business index for Spain,Annual
+ICBUSEASEXQEST,ICBUSEASEXQEST,Ease of doing business index for Estonia,Annual
+ICBUSEASEXQGRC,ICBUSEASEXQGRC,Ease of doing business index for Greece,Annual
+ICBUSEASEXQHKG,ICBUSEASEXQHKG,"Ease of doing business index for Hong Kong SAR, China",Annual
+ICBUSEASEXQSWE,ICBUSEASEXQSWE,Ease of doing business index for Sweden,Annual
+ICBUSEASEXQMAR,ICBUSEASEXQMAR,Ease of doing business index for Morocco,Annual
+ICBUSEASEXQSOM,ICBUSEASEXQSOM,Ease of doing business index for Somalia,Annual
+ICBUSEASEXQIRL,ICBUSEASEXQIRL,Ease of doing business index for Ireland,Annual
+ICBUSEASEXQSVN,ICBUSEASEXQSVN,Ease of doing business index for Slovenia,Annual
+ICBUSEASEXQURY,ICBUSEASEXQURY,Ease of doing business index for Uruguay,Annual
+ICBUSEASEXQTJK,ICBUSEASEXQTJK,Ease of doing business index for Tajikistan,Annual
+ICBUSEASEXQSYC,ICBUSEASEXQSYC,Ease of doing business index for Seychelles,Annual
+ICBUSEASEXQBIH,ICBUSEASEXQBIH,Ease of doing business index for Bosnia and Herzegovina,Annual
+ICBUSEASEXQTON,ICBUSEASEXQTON,Ease of doing business index for Tonga,Annual
+ICBUSEASEXQLBY,ICBUSEASEXQLBY,Ease of doing business index for Libyan Arab Jamahiriya,Annual
+ICBUSEASEXQPLW,ICBUSEASEXQPLW,Ease of doing business index for Palau,Annual
+ICBUSEASEXQJAM,ICBUSEASEXQJAM,Ease of doing business index for Jamaica,Annual
+ICBUSEASEXQGHA,ICBUSEASEXQGHA,Ease of doing business index for Ghana,Annual
+ICBUSEASEXQSSD,ICBUSEASEXQSSD,Ease of doing business index for the Republic of South Sudan,Annual
+ICBUSEASEXQBLZ,ICBUSEASEXQBLZ,Ease of doing business index for Belize,Annual
+ICBUSEASEXQKWT,ICBUSEASEXQKWT,Ease of doing business index for Kuwait,Annual
+ICBUSEASEXQLSO,ICBUSEASEXQLSO,Ease of doing business index for Lesotho,Annual
+ICBUSEASEXQGUY,ICBUSEASEXQGUY,Ease of doing business index for Guyana,Annual
+ICBUSEASEXQCPV,ICBUSEASEXQCPV,Ease of doing business index for Cape Verde,Annual
+ICBUSEASEXQSEN,ICBUSEASEXQSEN,Ease of doing business index for Senegal,Annual
+ICBUSEASEXQCYP,ICBUSEASEXQCYP,Ease of doing business index for Cyprus,Annual
+ICBUSEASEXQAUT,ICBUSEASEXQAUT,Ease of doing business index for Austria,Annual
+ICBUSEASEXQDNK,ICBUSEASEXQDNK,Ease of doing business index for Denmark,Annual
+ICBUSEASEXQLBR,ICBUSEASEXQLBR,Ease of doing business index for Liberia,Annual
+ICBUSEASEXQPOL,ICBUSEASEXQPOL,Ease of doing business index for Poland,Annual
+ICBUSEASEXQSDN,ICBUSEASEXQSDN,Ease of doing business index for the Sudan,Annual
+ICBUSEASEXQMDA,ICBUSEASEXQMDA,Ease of doing business index for the Republic of Moldova,Annual
+ICBUSEASEXQSLV,ICBUSEASEXQSLV,Ease of doing business index for El Salvador,Annual
+ICBUSEASEXQTCD,ICBUSEASEXQTCD,Ease of doing business index for Chad,Annual
+ICBUSEASEXQMLI,ICBUSEASEXQMLI,Ease of doing business index for Mali,Annual
+ICBUSEASEXQSMR,ICBUSEASEXQSMR,Ease of doing business index for San Marino,Annual
+ICBUSEASEXQBFA,ICBUSEASEXQBFA,Ease of doing business index for Burkina Faso,Annual
+ICBUSEASEXQFSM,ICBUSEASEXQFSM,Ease of doing business index for the Federated States of Micronesia,Annual
+ICBUSEASEXQNAM,ICBUSEASEXQNAM,Ease of doing business index for Namibia,Annual
+ICBUSEASEXQKIR,ICBUSEASEXQKIR,Ease of doing business index for Kiribati,Annual
+ICBUSEASEXQMKD,ICBUSEASEXQMKD,Ease of doing business index for the former Yugoslav Republic of Macedonia,Annual
+ICBUSEASEXQSVK,ICBUSEASEXQSVK,Ease of doing business index for the Slovak Republic,Annual
+SPDYNCBRTINITA,SPDYNCBRTINITA,Crude Birth Rate for Italy,Annual
+SPPOPGROWJPN,SPPOPGROWJPN,Population Growth for Japan,Annual
+PCAGDPCHA646NWDB,PCAGDPCHA646NWDB,Gross Domestic Product Per Capita for Switzerland,Annual
+PCAGDPTRA646NWDB,PCAGDPTRA646NWDB,Gross Domestic Product Per Capita for Turkey,Annual
+FPCPITOTLZGEGY,FPCPITOTLZGEGY,"Inflation, consumer prices for Egypt",Annual
+PCAGDPRUA646NWDB,PCAGDPRUA646NWDB,Gross Domestic Product Per Capita for Russian Federation,Annual
+MKTGDPNGA646NWDB,MKTGDPNGA646NWDB,Gross Domestic Product for Nigeria,Annual
+SLUEM1524ZSARG,SLUEM1524ZSARG,Youth Unemployment Rate for Argentina,Annual
+MKTGNIZAA646NWDB,MKTGNIZAA646NWDB,Gross National Income for South Africa,Annual
+SPDYNLE00INCHN,SPDYNLE00INCHN,"Life Expectancy at Birth, Total for China",Annual
+FPCPITOTLZGPAN,FPCPITOTLZGPAN,"Inflation, consumer prices for Panama",Annual
+SLUEM1524ZSBWA,SLUEM1524ZSBWA,Youth Unemployment Rate for Botswana,Annual
+MKTGNIJPA646NWDB,MKTGNIJPA646NWDB,Gross National Income for Japan,Annual
+MKTGDPETA646NWDB,MKTGDPETA646NWDB,Gross Domestic Product for Ethiopia,Annual
+MKTGNIAEA646NWDB,MKTGNIAEA646NWDB,Gross National Income for United Arab Emirates,Annual
+MKTGDPVEA646NWDB,MKTGDPVEA646NWDB,Gross Domestic Product for Bolivarian Republic of Venezuela,Annual
+SLUEM1524ZSMYS,SLUEM1524ZSMYS,Youth Unemployment Rate for Malaysia,Annual
+FPCPITOTLZGBGD,FPCPITOTLZGBGD,"Inflation, consumer prices for Bangladesh",Annual
+POPTOTPRA647NWDB,POPTOTPRA647NWDB,"Population, Total for Puerto Rico",Annual
+MKTGDPCOA646NWDB,MKTGDPCOA646NWDB,Gross Domestic Product for Colombia,Annual
+PCAGDPFRA646NWDB,PCAGDPFRA646NWDB,Gross Domestic Product Per Capita for France,Annual
+SPDYNTFRTINBGD,SPDYNTFRTINBGD,"Fertility Rate, Total for Bangladesh",Annual
+SPDYNTFRTINCAN,SPDYNTFRTINCAN,"Fertility Rate, Total for Canada",Annual
+SPDYNTFRTINPHL,SPDYNTFRTINPHL,"Fertility Rate, Total for the Philippines",Annual
+DDAI031WA156NWDB,DDAI031WA156NWDB,Firms with a Bank Loan or Line of Credit to Total Firms for World (DISCONTINUED),Annual
+CASHBLARA188A,CASHBLARA188A,Cash surplus/deficit (% of GDP) for Argentina,Annual
+CASHBLVEA188A,CASHBLVEA188A,Cash surplus/deficit (% of GDP) for Venezuela,Annual
+DEBTTLTRA188A,DEBTTLTRA188A,"Central government debt, total (% of GDP) for Turkey",Annual
+DEBTTLLKA188A,DEBTTLLKA188A,"Central government debt, total (% of GDP) for Sri Lanka",Annual
+DEBTTLJMA188A,DEBTTLJMA188A,"Central government debt, total (% of GDP) for Jamaica",Annual
+DEBTTLPHA188A,DEBTTLPHA188A,"Central government debt, total (% of GDP) for the Philippines",Annual
+POPTOTRU52647NWDB,POPTOTRU52647NWDB,"Population, Total for Russian Federation",5 Year
+POPTOTFR52647NWDB,POPTOTFR52647NWDB,"Population, Total for France",5 Year
+POPTOTBR52647NWDB,POPTOTBR52647NWDB,"Population, Total for Brazil",5 Year
+SPPOPGROWHIC,SPPOPGROWHIC,Population Growth for High Income Countries,Annual
+NYGDPPCAPKDSSF,NYGDPPCAPKDSSF,Constant GDP per capita: All Income Levels for Sub-Saharan Africa,Annual
+SPPOPGROWOED,SPPOPGROWOED,Population Growth for OECD Members,Annual
+NYGDPPCAPCDEMU,NYGDPPCAPCDEMU,Gross Domestic Product Per Capita for the Euro Area,Annual
+SPPOPTOTLCEB,SPPOPTOTLCEB,"Population, Total for Central Europe and the Baltics",Annual
+SPPOPGROWEUU,SPPOPGROWEUU,Population Growth for the European Union,Annual
+MKTGDPDKA646NWDB,MKTGDPDKA646NWDB,Gross Domestic Product for Denmark,Annual
+ITNETUSERP2GEO,ITNETUSERP2GEO,Internet users for Georgia,Annual
+ITNETUSERP2NLD,ITNETUSERP2NLD,Internet users for the Netherlands,Annual
+ITNETUSERP2NGA,ITNETUSERP2NGA,Internet users for Nigeria,Annual
+ITNETUSERP2RUS,ITNETUSERP2RUS,Internet users for the Russian Federation,Annual
+ITNETUSERP2MEX,ITNETUSERP2MEX,Internet users for Mexico,Annual
+ITNETUSERP2PRT,ITNETUSERP2PRT,Internet users for Portugal,Annual
+ITNETUSERP2SRB,ITNETUSERP2SRB,Internet users for Serbia,Annual
+ITNETUSERP2AFG,ITNETUSERP2AFG,Internet users for the Islamic Republic of Afghanistan,Annual
+ITNETUSERP2IRN,ITNETUSERP2IRN,Internet users for the Islamic Republic of Iran,Annual
+ITNETUSERP2PNG,ITNETUSERP2PNG,Internet users for Papua New Guinea,Annual
+ITNETUSERP2MDV,ITNETUSERP2MDV,Internet users for Maldives,Annual
+ITNETUSERP2MYS,ITNETUSERP2MYS,Internet users for Malaysia,Annual
+ITNETUSERP2EGY,ITNETUSERP2EGY,Internet users for Egypt,Annual
+ITNETUSERP2JPN,ITNETUSERP2JPN,Internet users for Japan,Annual
+ITNETUSERP2BRN,ITNETUSERP2BRN,Internet users for Brunei Darussalam,Annual
+ITNETUSERP2KWT,ITNETUSERP2KWT,Internet users for Kuwait,Annual
+ITNETUSERP2KAZ,ITNETUSERP2KAZ,Internet users for Kazakhstan,Annual
+ITNETUSERP2DEU,ITNETUSERP2DEU,Internet users for Germany,Annual
+ITNETUSERP2LAO,ITNETUSERP2LAO,Internet users for the Lao People's Democratic Republic,Annual
+ITNETUSERP2ARE,ITNETUSERP2ARE,Internet users for the United Arab Emirates,Annual
+ITNETUSERP2SWZ,ITNETUSERP2SWZ,Internet users for Swaziland,Annual
+ITNETUSERP2SOM,ITNETUSERP2SOM,Internet users for Somalia,Annual
+ITNETUSERP2CIV,ITNETUSERP2CIV,Internet users for the Republic of Cote d'Ivoire,Annual
+ITNETUSERP2OMN,ITNETUSERP2OMN,Internet users for Oman,Annual
+ITNETUSERP2SGP,ITNETUSERP2SGP,Internet users for Singapore,Annual
+ITNETUSERP2TZA,ITNETUSERP2TZA,Internet users for the United Republic of Tanzania,Annual
+ITNETUSERP2NPL,ITNETUSERP2NPL,Internet users for Nepal,Annual
+ITNETUSERP2COD,ITNETUSERP2COD,Internet users for the Democratic Republic of the Congo,Annual
+ITNETUSERP2CAF,ITNETUSERP2CAF,Internet users for the Central African Republic,Annual
+ITNETUSERP2SVN,ITNETUSERP2SVN,Internet users for Slovenia,Annual
+ITNETUSERP2ERI,ITNETUSERP2ERI,Internet users for Eritrea,Annual
+ITNETUSERP2PRY,ITNETUSERP2PRY,Internet users for Paraguay,Annual
+ITNETUSERP2KOR,ITNETUSERP2KOR,Internet users for the Republic of Korea,Annual
+MKTGDPROA646NWDB,MKTGDPROA646NWDB,Gross Domestic Product for Romania,Annual
+ITNETUSERP2PSE,ITNETUSERP2PSE,Internet users for the Occupied Palestinian Territory,Annual
+SIPOVGINIBTN,SIPOVGINIBTN,GINI Index for Bhutan,Annual
+SIPOVGINISYR,SIPOVGINISYR,GINI Index for the Syrian Arab Republic,Annual
+SIPOVGINISLV,SIPOVGINISLV,GINI Index for El Salvador,Annual
+SIPOVGINISVN,SIPOVGINISVN,GINI Index for Slovenia,Annual
+SIPOVGINITZA,SIPOVGINITZA,GINI Index for the United Republic of Tanzania,Annual
+SIPOVGINIMLI,SIPOVGINIMLI,GINI Index for Mali,Annual
+SIPOVGINIEST,SIPOVGINIEST,GINI Index for Estonia,Annual
+SIPOVGINISRB,SIPOVGINISRB,GINI Index for Serbia,Annual
+SIPOVGINIAGO,SIPOVGINIAGO,GINI Index for Angola,Annual
+SIPOVGINIISL,SIPOVGINIISL,GINI Index for Iceland,Annual
+SIPOVGINIUGA,SIPOVGINIUGA,GINI Index for Uganda,Annual
+SIPOVGINIDOM,SIPOVGINIDOM,GINI Index for the Dominican Republic,Annual
+SIPOVGINISUR,SIPOVGINISUR,GINI Index for Suriname,Annual
+SIPOVGINILAO,SIPOVGINILAO,GINI Index for the Lao People's Democratic Republic,Annual
+SIPOVGINIBFA,SIPOVGINIBFA,GINI Index for Burkina Faso,Annual
+SIPOVGINIIRQ,SIPOVGINIIRQ,GINI Index for Iraq,Annual
+SIPOVGINIRWA,SIPOVGINIRWA,GINI Index for Rwanda,Annual
+SIPOVGINIBDI,SIPOVGINIBDI,GINI Index for Burundi,Annual
+SPDYNIMRTINCOD,SPDYNIMRTINCOD,Infant Mortality Rate for the Democratic Republic of the Congo,Annual
+ITNETUSERP2NOC,ITNETUSERP2NOC,Internet users for the Non-OECD,Annual
+DDDM01CNA156NWDB,DDDM01CNA156NWDB,Stock Market Capitalization to GDP for China,Annual
+NYGDPPCAPKDPAK,NYGDPPCAPKDPAK,Constant GDP per capita for Pakistan,Annual
+NYGDPPCAPKDNOR,NYGDPPCAPKDNOR,Constant GDP per capita for Norway,Annual
+NYGDPPCAPKDEGY,NYGDPPCAPKDEGY,Constant GDP per capita for Egypt,Annual
+NYGDPPCAPKDVNM,NYGDPPCAPKDVNM,Constant GDP per capita for Viet Nam,Annual
+NYGDPPCAPKDBGD,NYGDPPCAPKDBGD,Constant GDP per capita for Bangladesh,Annual
+ICBUSEASEXQBEN,ICBUSEASEXQBEN,Ease of doing business index for Benin,Annual
+ICBUSEASEXQGAB,ICBUSEASEXQGAB,Ease of doing business index for Gabon,Annual
+ICBUSEASEXQUGA,ICBUSEASEXQUGA,Ease of doing business index for Uganda,Annual
+ICBUSEASEXQBDI,ICBUSEASEXQBDI,Ease of doing business index for Burundi,Annual
+ICBUSEASEXQBHR,ICBUSEASEXQBHR,Ease of doing business index for Bahrain,Annual
+ICBUSEASEXQISL,ICBUSEASEXQISL,Ease of doing business index for Iceland,Annual
+ICBUSEASEXQVUT,ICBUSEASEXQVUT,Ease of doing business index for Vanuatu,Annual
+ICBUSEASEXQDJI,ICBUSEASEXQDJI,Ease of doing business index for Djibouti,Annual
+ICBUSEASEXQAZE,ICBUSEASEXQAZE,Ease of doing business index for Azerbaijan,Annual
+ICBUSEASEXQGNB,ICBUSEASEXQGNB,Ease of doing business index for Guinea-Bissau,Annual
+ICBUSEASEXQNLD,ICBUSEASEXQNLD,Ease of doing business index for the Netherlands,Annual
+ICBUSEASEXQPNG,ICBUSEASEXQPNG,Ease of doing business index for Papua New Guinea,Annual
+ICBUSEASEXQGNQ,ICBUSEASEXQGNQ,Ease of doing business index for Equatorial Guinea,Annual
+ICBUSEASEXQSTP,ICBUSEASEXQSTP,Ease of doing business index for Sao Tome and Principe,Annual
+ICBUSEASEXQYEM,ICBUSEASEXQYEM,Ease of doing business index for the Republic of Yemen,Annual
+ICBUSEASEXQDOM,ICBUSEASEXQDOM,Ease of doing business index for the Dominican Republic,Annual
+ICBUSEASEXQCOG,ICBUSEASEXQCOG,Ease of doing business index for the Republic of the Congo,Annual
+ICBUSEASEXQCAF,ICBUSEASEXQCAF,Ease of doing business index for the Central African Republic,Annual
+ICBUSEASEXQCIV,ICBUSEASEXQCIV,Ease of doing business index for the Republic of Cote d'Ivoire,Annual
+ICBUSEASEXQAFG,ICBUSEASEXQAFG,Ease of doing business index for the Islamic Republic of Afghanistan,Annual
+SPDYNCBRTININD,SPDYNCBRTININD,Crude Birth Rate for India,Annual
+SLUEM1524ZSSGP,SLUEM1524ZSSGP,Youth Unemployment Rate for Singapore,Annual
+FPCPITOTLZGHUN,FPCPITOTLZGHUN,"Inflation, consumer prices for Hungary",Annual
+SPPOPGROWFRA,SPPOPGROWFRA,Population Growth for France,Annual
+MKTGNIDEA646NWDB,MKTGNIDEA646NWDB,Gross National Income for Germany,Annual
+POPTOTAUA647NWDB,POPTOTAUA647NWDB,"Population, Total for Australia",Annual
+SLEMPTOTLSPZSSOM,SLEMPTOTLSPZSSOM,Employment to Population Ratio for Somalia,Annual
+PCAGDPESA646NWDB,PCAGDPESA646NWDB,Gross Domestic Product Per Capita for Spain,Annual
+FPCPITOTLZGHKG,FPCPITOTLZGHKG,"Inflation, consumer prices for Hong Kong SAR, China",Annual
+PCAGDPTHA646NWDB,PCAGDPTHA646NWDB,Gross Domestic Product Per Capita for Thailand,Annual
+MKTGNIINA646NWDB,MKTGNIINA646NWDB,Gross National Income for India,Annual
+MKTGDPGHA646NWDB,MKTGDPGHA646NWDB,Gross Domestic Product for Ghana,Annual
+SPDYNCBRTINDEU,SPDYNCBRTINDEU,Crude Birth Rate for Germany,Annual
+SLUEM1524ZSUGA,SLUEM1524ZSUGA,Youth Unemployment Rate for Uganda,Annual
+FPCPITOTLZGSAU,FPCPITOTLZGSAU,"Inflation, consumer prices for Saudi Arabia",Annual
+SPDYNCBRTINCOD,SPDYNCBRTINCOD,Crude Birth Rate for the Democratic Republic of the Congo,Annual
+SLUEM1524ZSNGA,SLUEM1524ZSNGA,Youth Unemployment Rate for Nigeria,Annual
+FPCPITOTLZGSSD,FPCPITOTLZGSSD,"Inflation, consumer prices for the Republic of South Sudan",Annual
+SLEMPTOTLSPZSPHL,SLEMPTOTLSPZSPHL,Employment to Population Ratio for the Philippines,Annual
+MKTGDPNZA646NWDB,MKTGDPNZA646NWDB,Gross Domestic Product for New Zealand,Annual
+FPCPITOTLZGUKR,FPCPITOTLZGUKR,"Inflation, consumer prices for Ukraine",Annual
+SEENRTERTFMZSUSA,SEENRTERTFMZSUSA,Ratio of Female to Male Tertiary School Enrollment for the United States,Annual
+SLEMPTOTLSPZSMYS,SLEMPTOTLSPZSMYS,Employment to Population Ratio for Malaysia,Annual
+MKTGNIBTA646NWDB,MKTGNIBTA646NWDB,Gross National Income for Bhutan,Annual
+PCAGDPKRA646NWDB,PCAGDPKRA646NWDB,Gross Domestic Product Per Capita for Republic of Korea,Annual
+POPTOTIT52647NWDB,POPTOTIT52647NWDB,"Population, Total for Italy",5 Year
+POPTOTKR52647NWDB,POPTOTKR52647NWDB,"Population, Total for Republic of Korea",5 Year
+SPDYNTFRTINTHA,SPDYNTFRTINTHA,"Fertility Rate, Total for Thailand",Annual
+SPDYNTFRTINNGA,SPDYNTFRTINNGA,"Fertility Rate, Total for Nigeria",Annual
+DEBTTLPKA188A,DEBTTLPKA188A,"Central government debt, total (% of GDP) for Pakistan",Annual
+DEBTTLSGA188A,DEBTTLSGA188A,"Central government debt, total (% of GDP) for Singapore",Annual
+CASHBLGBA188A,CASHBLGBA188A,Cash surplus/deficit (% of GDP) for the United Kingdom,Annual
+CASHBLDEA188A,CASHBLDEA188A,Cash surplus/deficit (% of GDP) for Germany,Annual
+DEBTTLNOA188A,DEBTTLNOA188A,"Central government debt, total (% of GDP) for Norway",Annual
+CASHBLGRA188A,CASHBLGRA188A,Cash surplus/deficit (% of GDP) for Greece,Annual
+POPTOTES52647NWDB,POPTOTES52647NWDB,"Population, Total for Spain",5 Year
+FPCPITOTLZGLCN,FPCPITOTLZGLCN,"Inflation, consumer prices: All Income Levels for Latin America and Caribbean",Annual
+SPDYNIMRTINEAP,SPDYNIMRTINEAP,Infant Mortality Rate for Developing Countries in East Asia and Pacific,Annual
+ITNETUSERP2ETH,ITNETUSERP2ETH,Internet users for Ethiopia,Annual
+ITNETUSERP2QAT,ITNETUSERP2QAT,Internet users for Qatar,Annual
+ITNETUSERP2FSM,ITNETUSERP2FSM,Internet users for the Federated States of Micronesia,Annual
+ITNETUSERP2VCT,ITNETUSERP2VCT,Internet users for Saint Vincent and the Grenadines,Annual
+ITNETUSERP2FRA,ITNETUSERP2FRA,Internet users for France,Annual
+ITNETUSERP2ARG,ITNETUSERP2ARG,Internet users for Argentina,Annual
+ITNETUSERP2SYR,ITNETUSERP2SYR,Internet users for the Syrian Arab Republic,Annual
+ITNETUSERP2LBN,ITNETUSERP2LBN,Internet users for Lebanon,Annual
+ITNETUSERP2CHN,ITNETUSERP2CHN,Internet users for China,Annual
+ITNETUSERP2NOR,ITNETUSERP2NOR,Internet users for Norway,Annual
+ITNETUSERP2COM,ITNETUSERP2COM,Internet users for Comoros,Annual
+ITNETUSERP2THA,ITNETUSERP2THA,Internet users for Thailand,Annual
+ITNETUSERP2FRO,ITNETUSERP2FRO,Internet users for the Faroe Islands,Annual
+ITNETUSERP2YEM,ITNETUSERP2YEM,Internet users for the Republic of Yemen,Annual
+ITNETUSERP2ISL,ITNETUSERP2ISL,Internet users for Iceland,Annual
+ITNETUSERP2GTM,ITNETUSERP2GTM,Internet users for Guatemala,Annual
+ITNETUSERP2AUS,ITNETUSERP2AUS,Internet users for Australia,Annual
+ITNETUSERP2DZA,ITNETUSERP2DZA,Internet users for Algeria,Annual
+ITNETUSERP2CHE,ITNETUSERP2CHE,Internet users for Switzerland,Annual
+ITNETUSERP2HTI,ITNETUSERP2HTI,Internet users for Haiti,Annual
+ITNETUSERP2LBY,ITNETUSERP2LBY,Internet users for Libyan Arab Jamahiriya,Annual
+ITNETUSERP2GBR,ITNETUSERP2GBR,Internet users for the United Kingdom,Annual
+ITNETUSERP2BRA,ITNETUSERP2BRA,Internet users for Brazil,Annual
+ITNETUSERP2AZE,ITNETUSERP2AZE,Internet users for Azerbaijan,Annual
+ITNETUSERP2NER,ITNETUSERP2NER,Internet users for Niger,Annual
+ITNETUSERP2FIN,ITNETUSERP2FIN,Internet users for Finland,Annual
+ITNETUSERP2KGZ,ITNETUSERP2KGZ,Internet users for the Kyrgyz Republic,Annual
+ITNETUSERP2ZMB,ITNETUSERP2ZMB,Internet users for Zambia,Annual
+ITNETUSERP2BTN,ITNETUSERP2BTN,Internet users for Bhutan,Annual
+ITNETUSERP2SLE,ITNETUSERP2SLE,Internet users for Sierra Leone,Annual
+ITNETUSERP2ESP,ITNETUSERP2ESP,Internet users for Spain,Annual
+ITNETUSERP2LKA,ITNETUSERP2LKA,Internet users for Sri Lanka,Annual
+ITNETUSERP2NZL,ITNETUSERP2NZL,Internet users for New Zealand,Annual
+ITNETUSERP2TUN,ITNETUSERP2TUN,Internet users for Tunisia,Annual
+ITNETUSERP2KEN,ITNETUSERP2KEN,Internet users for Kenya,Annual
+ITNETUSERP2LIE,ITNETUSERP2LIE,Internet users for Liechtenstein,Annual
+ITNETUSERP2MNG,ITNETUSERP2MNG,Internet users for Mongolia,Annual
+ITNETUSERP2IRQ,ITNETUSERP2IRQ,Internet users for Iraq,Annual
+ITNETUSERP2BWA,ITNETUSERP2BWA,Internet users for Botswana,Annual
+ITNETUSERP2CUW,ITNETUSERP2CUW,Internet users for Curacao,Annual
+ITNETUSERP2GMB,ITNETUSERP2GMB,Internet users for the Republic of the Gambia,Annual
+ITNETUSERP2MDA,ITNETUSERP2MDA,Internet users for the Republic of Moldova,Annual
+ITNETUSERP2MLI,ITNETUSERP2MLI,Internet users for Mali,Annual
+ITNETUSERP2KHM,ITNETUSERP2KHM,Internet users for Cambodia,Annual
+ITNETUSERP2RWA,ITNETUSERP2RWA,Internet users for Rwanda,Annual
+ITNETUSERP2ASM,ITNETUSERP2ASM,Internet users for American Samoa,Annual
+ITNETUSERP2HKG,ITNETUSERP2HKG,"Internet users for Hong Kong SAR, China",Annual
+ITNETUSERP2SLV,ITNETUSERP2SLV,Internet users for El Salvador,Annual
+ITNETUSERP2CYM,ITNETUSERP2CYM,Internet users for Cayman Islands,Annual
+ITNETUSERP2GNB,ITNETUSERP2GNB,Internet users for Guinea-Bissau,Annual
+ITNETUSERP2PER,ITNETUSERP2PER,Internet users for Peru,Annual
+ITNETUSERP2GHA,ITNETUSERP2GHA,Internet users for Ghana,Annual
+ITNETUSERP2SWE,ITNETUSERP2SWE,Internet users for Sweden,Annual
+ITNETUSERP2ALB,ITNETUSERP2ALB,Internet users for Albania,Annual
+ITNETUSERP2HRV,ITNETUSERP2HRV,Internet users for Croatia,Annual
+ITNETUSERP2ARM,ITNETUSERP2ARM,Internet users for Armenia,Annual
+ITNETUSERP2KIR,ITNETUSERP2KIR,Internet users for Kiribati,Annual
+ITNETUSERP2TGO,ITNETUSERP2TGO,Internet users for Togo,Annual
+ITNETUSERP2TUV,ITNETUSERP2TUV,Internet users for Tuvalu,Annual
+ITNETUSERP2TCD,ITNETUSERP2TCD,Internet users for Chad,Annual
+ITNETUSERP2PRK,ITNETUSERP2PRK,Internet users for the Democratic People's Republic of Korea,Annual
+ITNETUSERP2MHL,ITNETUSERP2MHL,Internet users for the Marshall Islands,Annual
+ITNETUSERP2IDN,ITNETUSERP2IDN,Internet users for Indonesia,Annual
+ITNETUSERP2NIC,ITNETUSERP2NIC,Internet users for Nicaragua,Annual
+ITNETUSERP2CUB,ITNETUSERP2CUB,Internet users for Cuba,Annual
+ITNETUSERP2LUX,ITNETUSERP2LUX,Internet users for Luxembourg,Annual
+ITNETUSERP2BHS,ITNETUSERP2BHS,Internet users for the Bahamas,Annual
+ITNETUSERP2UZB,ITNETUSERP2UZB,Internet users for Uzbekistan,Annual
+ITNETUSERP2AUT,ITNETUSERP2AUT,Internet users for Austria,Annual
+ITNETUSERP2GRL,ITNETUSERP2GRL,Internet users for Greenland,Annual
+ITNETUSERP2IRL,ITNETUSERP2IRL,Internet users for Ireland,Annual
+ITNETUSERP2MDG,ITNETUSERP2MDG,Internet users for Madagascar,Annual
+ITNETUSERP2DOM,ITNETUSERP2DOM,Internet users for the Dominican Republic,Annual
+ITNETUSERP2BGR,ITNETUSERP2BGR,Internet users for Bulgaria,Annual
+ITNETUSERP2AGO,ITNETUSERP2AGO,Internet users for Angola,Annual
+ITNETUSERP2GRD,ITNETUSERP2GRD,Internet users for Grenada,Annual
+ITNETUSERP2SDN,ITNETUSERP2SDN,Internet users for the Sudan,Annual
+ITNETUSERP2MRT,ITNETUSERP2MRT,Internet users for Mauritania,Annual
+ITNETUSERP2SAU,ITNETUSERP2SAU,Internet users for Saudi Arabia,Annual
+ITNETUSERP2CPV,ITNETUSERP2CPV,Internet users for Cape Verde,Annual
+ITNETUSERP2SEN,ITNETUSERP2SEN,Internet users for Senegal,Annual
+ITNETUSERP2MAR,ITNETUSERP2MAR,Internet users for Morocco,Annual
+ITNETUSERP2GUM,ITNETUSERP2GUM,Internet users for Guam,Annual
+ITNETUSERP2BEL,ITNETUSERP2BEL,Internet users for Belgium,Annual
+ITNETUSERP2MKD,ITNETUSERP2MKD,Internet users for the former Yugoslav Republic of Macedonia,Annual
+ITNETUSERP2CMR,ITNETUSERP2CMR,Internet users for Cameroon,Annual
+ITNETUSERP2PRI,ITNETUSERP2PRI,Internet users for Puerto Rico,Annual
+ITNETUSERP2POL,ITNETUSERP2POL,Internet users for Poland,Annual
+ITNETUSERP2LTU,ITNETUSERP2LTU,Internet users for Lithuania,Annual
+ITNETUSERP2VUT,ITNETUSERP2VUT,Internet users for Vanuatu,Annual
+ITNETUSERP2TLS,ITNETUSERP2TLS,Internet users for the Democratic Republic of Timor-Leste,Annual
+ITNETUSERP2MCO,ITNETUSERP2MCO,Internet users for Monaco,Annual
+ITNETUSERP2LCA,ITNETUSERP2LCA,Internet users for St. Lucia,Annual
+ITNETUSERP2HUN,ITNETUSERP2HUN,Internet users for Hungary,Annual
+ITNETUSERP2HND,ITNETUSERP2HND,Internet users for Honduras,Annual
+ITNETUSERP2TON,ITNETUSERP2TON,Internet users for Tonga,Annual
+ITNETUSERP2BFA,ITNETUSERP2BFA,Internet users for Burkina Faso,Annual
+ITNETUSERP2TCA,ITNETUSERP2TCA,Internet users for Turks and Caicos Islands,Annual
+ITNETUSERP2JAM,ITNETUSERP2JAM,Internet users for Jamaica,Annual
+ITNETUSERP2SVK,ITNETUSERP2SVK,Internet users for the Slovak Republic,Annual
+ITNETUSERP2ZWE,ITNETUSERP2ZWE,Internet users for Zimbabwe,Annual
+ITNETUSERP2MUS,ITNETUSERP2MUS,Internet users for Mauritius,Annual
+ITNETUSERP2ECU,ITNETUSERP2ECU,Internet users for Ecuador,Annual
+ITNETUSERP2COL,ITNETUSERP2COL,Internet users for Colombia,Annual
+ITNETUSERP2STP,ITNETUSERP2STP,Internet users for Sao Tome and Principe,Annual
+ITNETUSERP2UKR,ITNETUSERP2UKR,Internet users for Ukraine,Annual
+ITNETUSERP2DMA,ITNETUSERP2DMA,Internet users for Dominica,Annual
+ITNETUSERP2LBR,ITNETUSERP2LBR,Internet users for Liberia,Annual
+ITNETUSERP2MNP,ITNETUSERP2MNP,Internet users for the Commonwealth of the Northern Mariana Islands,Annual
+ITNETUSERP2CZE,ITNETUSERP2CZE,Internet users for the Czech Republic,Annual
+ITNETUSERP2EST,ITNETUSERP2EST,Internet users for Estonia,Annual
+ITNETUSERP2AND,ITNETUSERP2AND,Internet users for Andorra,Annual
+ITNETUSERP2DNK,ITNETUSERP2DNK,Internet users for Denmark,Annual
+ITNETUSERP2SLB,ITNETUSERP2SLB,Internet users for the Solomon Islands,Annual
+ITNETUSERP2ISR,ITNETUSERP2ISR,Internet users for Israel,Annual
+ITNETUSERP2ROU,ITNETUSERP2ROU,Internet users for Romania,Annual
+ITNETUSERP2CRI,ITNETUSERP2CRI,Internet users for Costa Rica,Annual
+ITNETUSERP2TKM,ITNETUSERP2TKM,Internet users for Turkmenistan,Annual
+ITNETUSERP2URY,ITNETUSERP2URY,Internet users for Uruguay,Annual
+ITNETUSERP2VNM,ITNETUSERP2VNM,Internet users for Viet Nam,Annual
+ITNETUSERP2BLZ,ITNETUSERP2BLZ,Internet users for Belize,Annual
+ITNETUSERP2GRC,ITNETUSERP2GRC,Internet users for Greece,Annual
+ITNETUSERP2PAN,ITNETUSERP2PAN,Internet users for Panama,Annual
+ITNETUSERP2BDI,ITNETUSERP2BDI,Internet users for Burundi,Annual
+ITNETUSERP2CYP,ITNETUSERP2CYP,Internet users for Cyprus,Annual
+ITNETUSERP2NAM,ITNETUSERP2NAM,Internet users for Namibia,Annual
+ITNETUSERP2MLT,ITNETUSERP2MLT,Internet users for Malta,Annual
+ITNETUSERP2ATG,ITNETUSERP2ATG,Internet users for Antigua and Barbuda,Annual
+ITNETUSERP2KNA,ITNETUSERP2KNA,Internet users for St. Kitts and Nevis,Annual
+ITNETUSERP2VEN,ITNETUSERP2VEN,Internet users for the Bolivarian Republic of Venezuela,Annual
+ITNETUSERP2ABW,ITNETUSERP2ABW,Internet users for Aruba,Annual
+ITNETUSERP2MAC,ITNETUSERP2MAC,Internet users for Macao,Annual
+ITNETUSERP2UGA,ITNETUSERP2UGA,Internet users for Uganda,Annual
+ITNETUSERP2MOZ,ITNETUSERP2MOZ,Internet users for Mozambique,Annual
+ITNETUSERP2BEN,ITNETUSERP2BEN,Internet users for Benin,Annual
+ITNETUSERP2GAB,ITNETUSERP2GAB,Internet users for Gabon,Annual
+ITNETUSERP2JOR,ITNETUSERP2JOR,Internet users for Jordan,Annual
+ITNETUSERP2BOL,ITNETUSERP2BOL,Internet users for the Plurinational State of Bolivia,Annual
+SPPOP65UPTOZSCHN,SPPOP65UPTOZSCHN,Population ages 65 and above for China,Annual
+SIPOVGINICZE,SIPOVGINICZE,GINI Index for the Czech Republic,Annual
+SIPOVGINIARM,SIPOVGINIARM,GINI Index for Armenia,Annual
+SIPOVGINITGO,SIPOVGINITGO,GINI Index for Togo,Annual
+SIPOVGINISDN,SIPOVGINISDN,GINI Index for the Sudan,Annual
+SIPOVGINIMDA,SIPOVGINIMDA,GINI Index for the Republic of Moldova,Annual
+SIPOVGINIPAN,SIPOVGINIPAN,GINI Index for Panama,Annual
+SIPOVGINIGEO,SIPOVGINIGEO,GINI Index for Georgia,Annual
+SIPOVGINIUZB,SIPOVGINIUZB,GINI Index for Uzbekistan,Annual
+SIPOVGINIHRV,SIPOVGINIHRV,GINI Index for Croatia,Annual
+SIPOVGININPL,SIPOVGININPL,GINI Index for Nepal,Annual
+SIPOVGINIYEM,SIPOVGINIYEM,GINI Index for the Republic of Yemen,Annual
+SIPOVGINIBOL,SIPOVGINIBOL,GINI Index for the Plurinational State of Bolivia,Annual
+SIPOVGINITCD,SIPOVGINITCD,GINI Index for Chad,Annual
+SIPOVGINIAZE,SIPOVGINIAZE,GINI Index for Azerbaijan,Annual
+SIPOVGINISVK,SIPOVGINISVK,GINI Index for the Slovak Republic,Annual
+SIPOVGININER,SIPOVGININER,GINI Index for Niger,Annual
+SIPOVGINILCA,SIPOVGINILCA,GINI Index for St. Lucia,Annual
+SIPOVGINIMDV,SIPOVGINIMDV,GINI Index for Maldives,Annual
+SIPOVGINILVA,SIPOVGINILVA,GINI Index for Latvia,Annual
+SIPOVGINIBLR,SIPOVGINIBLR,GINI Index for Belarus,Annual
+SIPOVGINITKM,SIPOVGINITKM,GINI Index for Turkmenistan,Annual
+SPDYNIMRTINPSE,SPDYNIMRTINPSE,Infant Mortality Rate for the Occupied Palestinian Territory,Annual
+SPDYNIMRTINSLE,SPDYNIMRTINSLE,Infant Mortality Rate for Sierra Leone,Annual
+SPDYNIMRTINCHN,SPDYNIMRTINCHN,Infant Mortality Rate for China,Annual
+SPDYNIMRTINMEX,SPDYNIMRTINMEX,Infant Mortality Rate for Mexico,Annual
+SPDYNIMRTINSGP,SPDYNIMRTINSGP,Infant Mortality Rate for Singapore,Annual
+SPDYNIMRTINJPN,SPDYNIMRTINJPN,Infant Mortality Rate for Japan,Annual
+SPDYNIMRTINARG,SPDYNIMRTINARG,Infant Mortality Rate for Argentina,Annual
+SPDYNIMRTINBRA,SPDYNIMRTINBRA,Infant Mortality Rate for Brazil,Annual
+SIPOVGINIPSE,SIPOVGINIPSE,GINI Index for the Occupied Palestinian Territory,Annual
+MKTGDP1WA646NWDB,MKTGDP1WA646NWDB,Gross Domestic Product for World (DISCONTINUED),Annual
+SMPOPREFGIND,SMPOPREFGIND,Refugee Population by Country or Territory of Asylum for India,Annual
+NYGDPPCAPKDSAU,NYGDPPCAPKDSAU,Constant GDP per capita for Saudi Arabia,Annual
+NYGDPPCAPKDCHE,NYGDPPCAPKDCHE,Constant GDP per capita for Switzerland,Annual
+SEADTLITRZSRUS,SEADTLITRZSRUS,"Literacy Rate, Adult Total for the Russian Federation",Annual
+SEADTLITRZSZAF,SEADTLITRZSZAF,"Literacy Rate, Adult Total for South Africa",Annual
+POPTOTPS52647NWDB,POPTOTPS52647NWDB,"Population, Total for the Occupied Palestinian Territory",5 Year
+ECBESTRTOTVOL,ECBESTRTOTVOL,Euro Short-Term Rate: Total Volume,Daily
+SMPOPREFGCHE,SMPOPREFGCHE,Refugee Population by Country or Territory of Asylum for Switzerland,Annual
+SMPOPREFGNGA,SMPOPREFGNGA,Refugee Population by Country or Territory of Asylum for Nigeria,Annual
+SMPOPREFGSUR,SMPOPREFGSUR,Refugee Population by Country or Territory of Asylum for Suriname,Annual
+SMPOPNETMTHA,SMPOPNETMTHA,Net migration for Thailand,5 Year
+SMPOPNETMPHL,SMPOPNETMPHL,Net migration for the Philippines,5 Year
+SMPOPNETMDEU,SMPOPNETMDEU,Net migration for Germany,5 Year
+SMPOPNETMHKG,SMPOPNETMHKG,"Net migration for Hong Kong SAR, China",5 Year
+SMPOPNETMGBR,SMPOPNETMGBR,Net migration for the United Kingdom,5 Year
+DDSI03USA156NWDB,DDSI03USA156NWDB,Bank Capital to Total Assets for United States,Annual
+SLEMPTOTLSPZSLBR,SLEMPTOTLSPZSLBR,Employment to Population Ratio for Liberia,Annual
+FPCPITOTLZGFIN,FPCPITOTLZGFIN,"Inflation, consumer prices for Finland",Annual
+FPCPITOTLZGBEL,FPCPITOTLZGBEL,"Inflation, consumer prices for Belgium",Annual
+SPDYNCBRTINIRL,SPDYNCBRTINIRL,Crude Birth Rate for Ireland,Annual
+SPPOPGROWCAN,SPPOPGROWCAN,Population Growth for Canada,Annual
+MKTGDPAFA646NWDB,MKTGDPAFA646NWDB,Gross Domestic Product for Afghanistan,Annual
+FPCPITOTLZGLKA,FPCPITOTLZGLKA,"Inflation, consumer prices for Sri Lanka",Annual
+FPCPITOTLZGISL,FPCPITOTLZGISL,"Inflation, consumer prices for Iceland",Annual
+POPTOTRUA647NWDB,POPTOTRUA647NWDB,"Population, Total for Russian Federation",Annual
+MKTGDPBDA646NWDB,MKTGDPBDA646NWDB,Gross Domestic Product for Bangladesh,Annual
+PCAGDPBRA646NWDB,PCAGDPBRA646NWDB,Gross Domestic Product Per Capita for Brazil,Annual
+SPDYNCBRTINKOR,SPDYNCBRTINKOR,Crude Birth Rate for the Republic of Korea,Annual
+FPCPITOTLZGIRL,FPCPITOTLZGIRL,"Inflation, consumer prices for Ireland",Annual
+SPDYNCBRTINMEX,SPDYNCBRTINMEX,Crude Birth Rate for Mexico,Annual
+SLEMPTOTLSPZSJPN,SLEMPTOTLSPZSJPN,Employment to Population Ratio for Japan,Annual
+PCAGDPAUA646NWDB,PCAGDPAUA646NWDB,Gross Domestic Product Per Capita for Australia,Annual
+SLUEM1524ZSSAU,SLUEM1524ZSSAU,Youth Unemployment Rate for Saudi Arabia,Annual
+POPTOTBRA647NWDB,POPTOTBRA647NWDB,"Population, Total for Brazil",Annual
+SLEMPTOTLSPZSETH,SLEMPTOTLSPZSETH,Employment to Population Ratio for Ethiopia,Annual
+POPTOTMX52647NWDB,POPTOTMX52647NWDB,"Population, Total for Mexico",5 Year
+MKTGDPCLA646NWDB,MKTGDPCLA646NWDB,Gross Domestic Product for Chile,Annual
+POPTOTFRA647NWDB,POPTOTFRA647NWDB,"Population, Total for France",Annual
+SEADTLITRZSARB,SEADTLITRZSARB,"Literacy Rate, Adult Total for the Arab World",Annual
+POPTOTTR52647NWDB,POPTOTTR52647NWDB,"Population, Total for Turkey",5 Year
+POPTOTUA52647NWDB,POPTOTUA52647NWDB,"Population, Total for Ukraine",5 Year
+SPDYNTFRTINROU,SPDYNTFRTINROU,"Fertility Rate, Total for Romania",Annual
+SPDYNTFRTINDEU,SPDYNTFRTINDEU,"Fertility Rate, Total for Germany",Annual
+SPDYNTFRTINUKR,SPDYNTFRTINUKR,"Fertility Rate, Total for Ukraine",Annual
+SPDYNTFRTINITA,SPDYNTFRTINITA,"Fertility Rate, Total for Italy",Annual
+SPDYNTFRTINSWE,SPDYNTFRTINSWE,"Fertility Rate, Total for Sweden",Annual
+SPDYNTFRTINCOD,SPDYNTFRTINCOD,"Fertility Rate, Total for the Democratic Republic of the Congo",Annual
+SPDYNTFRTINHUN,SPDYNTFRTINHUN,"Fertility Rate, Total for Hungary",Annual
+SPDYNTFRTINPOL,SPDYNTFRTINPOL,"Fertility Rate, Total for Poland",Annual
+SPDYNTFRTINFRA,SPDYNTFRTINFRA,"Fertility Rate, Total for France",Annual
+SPDYNTFRTINGRC,SPDYNTFRTINGRC,"Fertility Rate, Total for Greece",Annual
